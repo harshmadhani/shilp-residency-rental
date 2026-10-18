@@ -9,11 +9,10 @@ const root = path.resolve(__dirname, '..');
 const docsDir = path.join(root, 'docs');
 const outDir = path.join(root, 'build');
 
+// Only the Hindi quotation is rendered to PDF (it goes to the contractor).
+// English documents stay as markdown.
 const files = [
-  'vendor-confirmation.en.md',
-  'vendor-confirmation.hi.md',
-  'spec-and-quotation.en.md',
-  'spec-and-quotation.hi.md',
+  'quotation.hi.md',
 ];
 
 function esc(s) {
