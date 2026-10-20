@@ -15,10 +15,10 @@ This sheet confirms the exact scope, materials, hardware and specifications agre
 | 1 | Kitchen cabinetry | Plywood carcass + laminate shutters, **all drawers included** | 30.5 | 1,650 | 50,325 |
 | 2 | Miscellaneous cabinet / drawer unit | As discussed (to be confirmed on site) | — | — | 3,510 |
 | 3 | Door laminate | 1 mm laminate, both faces | 6 doors | 5,000 | 30,000 |
-| 4 | Wardrobes | Plywood carcass + laminate shutters, 1 hanging rod + shelves | 50.75 sq ft x 2 | 1,400 | 1,42,100 |
-|   | **TOTAL** |   |   |   | **2,25,935** |
+|   | **TOTAL** |   |   |   | **83,835** |
 
-> Rates for items 1 & 4 reflect the upgraded, tenant-durable specification (IS 710 ply, 1 mm laminate both faces, 2 mm sealed edge banding). Door-laminate rate revised from ₹6,000 to ₹5,000.
+> Rates reflect the upgraded, tenant-durable specification (IS 710 ply, 1 mm laminate both faces, 2 mm sealed edge banding). Door-laminate rate revised from ₹6,000 to ₹5,000.
+> **Wardrobes are excluded from this scope** — they will be bought readymade.
 > Please confirm whether the above rates are **inclusive or exclusive of GST**.
 
 ## 2. Material Specification (non-negotiable)
@@ -26,7 +26,6 @@ This sheet confirms the exact scope, materials, hardware and specifications agre
 | Element | Requirement |
 |---|---|
 | Plywood — kitchen | 18 mm **branded** ply; **IS 710 (BWR/BWP) required**. Century, Greenply or Gurjan-core equivalent |
-| Plywood — wardrobes | 18 mm branded ply; **IS 710 preferred, IS 303 (MR) minimum** |
 | Back / wall-side panels | 12 mm |
 | Laminate — external | 1 mm, branded (Merino / Century) |
 | Laminate — internal | 1 mm, branded |
@@ -50,7 +49,7 @@ State brand to be used: **Hinges: __________  Channels: __________**
 
 **Included:** all cutting, fabrication, site assembly, installation, labour, adhesive, edge banding, finishing and site clean-up.
 
-**Excluded:** granite counter (already installed), sink, hob, chimney, fans, lights, curtains, paint, AC work / pelmet, appliances, loose furniture.
+**Excluded:** granite counter (already installed), sink, hob, chimney, **wardrobes (bought separately)**, fans, lights, curtains, paint, AC work / pelmet, appliances, loose furniture.
 
 ## 5. Quality Requirements
 
