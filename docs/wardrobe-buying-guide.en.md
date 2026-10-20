@@ -1,48 +1,50 @@
 # Wardrobe Buying Guide — Readymade
 
 **Property:** Flat No. ____, C Block (3-Series), Shilp Residency, Gota, SG Highway, Ahmedabad
-**Plan used:** `assets/floor-plan-3bhk.webp` — Shilp's standard 3 BHK unit plan (shown as units 1401/1402, blocks A–D)
+**Plan used:** `assets/floor-plan-3bhk.webp` — Shilp 3 BHK unit plan (units 202 & 203, blocks A–D; the 3-series is 302/303, same typical plan)
 **Flat size:** 2,360 sq ft built-up · 3 BHK
 
 Wardrobes are **not** in the contractor's scope. This guide gives the sizes to buy, based on the room dimensions printed on the unit plan.
 
-> The plan is indicative and drawn for units 1401/1402. Your unit may be mirrored or slightly different. **Measure the actual wall before ordering** — see the checklist at the end.
+> The plan is indicative. **Measure the actual wall before ordering** — see the checklist at the end.
 
 ## 1. Room schedule (from the plan)
 
-| # | Room | Size (ft) |
-|---|---|---|
-| 1 | Vestibule | 6'0" × 5'10½" |
-| 2 | Living room | 11'0" × 18'0" |
-| 3 | Family living & dining | 10'0" × 21'10½" |
-| 4 | Kitchen | 10'0" × 7'4½" |
-| 4A | Store | 3'0" × 5'10½" |
-| 4B | Wash | 5'0" × 5'9" |
-| 5 | Bedroom (small) | 13'6" × 10'6" |
-| 6 | Common toilet | 7'0" × 4'6" |
-| 7 | Bedroom (medium) | 11'0" × 15'0" |
-| 8 | Bedroom (master) | 16'0" × 11'1½" |
-| 8A | Dress / toilet (master) | 10'0" × 5'10½" |
-| 9 | Semi-covered verandah | 20'7½" × 23'3" |
-| 10 | Private terrace | 19'0" × 3'7" |
+| # | Room | Size (ft) | Area (sq ft) |
+|---|---|---|---|
+| 1 | Personal foyer | 5'2¼" × 4'9" | 25 |
+| 2 | Living room | 11'10½" × 19'0" | 226 |
+| 2A | Balcony | 11'6" × 5'0" | 58 |
+| 3 | Dining | 10'0" × 10'1½" | 101 |
+| 4 | Kitchen | 12'6" × 7'10½" | 98 |
+| 4A | Store | 4'0" × 7'6" | 30 |
+| 4B | Wash | 7'11½" × 5'10½" | 47 |
+| 5 | Bedroom (small) | **10'0" × 12'0"** | 120 |
+| 6 | Common toilet | 7'6" × 4'6" | 34 |
+| 7 | **Bedroom (master)** | **12'0" × 16'0"** | 192 |
+| 7A | Toilet (master) | 5'0" × 8'0" | 40 |
+| 8 | Bedroom (large) | **15'0" × 11'0"** | 165 |
+| 8A | Toilet | 5'0" × 7'7½" | 38 |
+
+**Bedroom 7 is the master** — 12'0" × 16'0", the largest room in the flat.
 
 ## 2. What to buy
 
-Two wardrobes, as decided — master plus the medium bedroom.
+Two wardrobes, in the two largest bedrooms. Bedroom 5 stays free as a study / guest room.
 
-| Room | Clear wall available | Buy | Why |
+| Room | Wall to use | Buy | Why |
 |---|---|---|---|
-| **Bedroom 8 (master)** — 16'0" × 11'1½" | ~6 ft beside the dress/toilet door | **6 ft W × 7 ft H × 2 ft D, 3 doors** | The dress room (8A) already holds overflow; 6 ft leaves 5 ft of walkway |
-| **Bedroom 7** — 11'0" × 15'0" | ~11 ft on the long wall | **6 ft W × 7 ft H × 2 ft D, 3 doors** | Long wall opposite the bed; comfortably fits |
-| **Bedroom 5** — 13'6" × 10'6" | ~10'6" | *Optional:* 4 ft W × 6'6" H | Only if a tenant later needs a third; matched style, smaller |
+| **Bedroom 7 (master)** — 12'0" × 16'0" | 16 ft long wall | **7 ft W × 7 ft H × 2 ft D, 4-door** | Master needs the most storage; 7 ft leaves ~9 ft of clear wall. Drop to 6 ft only to save money |
+| **Bedroom 8** — 15'0" × 11'0" | 15 ft long wall | **6 ft W × 7 ft H × 2 ft D, 3-door** | Comfortably fits with ~9 ft left for the bed and walkway |
+| **Bedroom 5** — 10'0" × 12'0" | 12 ft wall | *Optional:* 4 ft W × 6'6" H | Smallest room — leave it free; add later only if a tenant needs it |
 
-**Don't buy bigger than 6 ft** in these rooms. The gain in storage is small, and you lose the walkway and the door swing.
+**Don't go above 7 ft** in the master or 6 ft in Bedroom 8. Beyond that you eat the walkway for very little extra storage.
 
 ### Internal layout to ask for
 - **1 full-width hanging rod** at 5'6"–6' height
 - **4–5 shelves** (adjustable)
 - **1 locker / 1 drawer** for documents
-- **1 loft shelf** at the top if you buy 7 ft
+- **1 loft shelf** at the top
 - Split: 60% hanging / 40% shelves is the practical mix for a family
 
 ## 3. Specification to insist on
@@ -65,13 +67,14 @@ Soft-close is **not** required — standard branded hinges are fine and cheaper.
 
 | Item | Realistic range |
 |---|---|
-| 6 ft × 7 ft × 2 ft, 3-door, branded | ₹22,000–40,000 |
-| 6 ft, mid-brand | ₹18,000–28,000 |
-| 4 ft, branded (optional third) | ₹14,000–24,000 |
-| **Two 6 ft units** | **₹44,000–80,000** |
+| **7 ft × 7 ft × 2 ft, 4-door (master)** | ₹30,000–48,000 |
+| **6 ft × 7 ft × 2 ft, 3-door (Bedroom 8)** | ₹22,000–40,000 |
+| **Both units** | **₹52,000–88,000** |
+| 4 ft unit (optional, Bedroom 5) | ₹14,000–24,000 |
+| Loft box above each unit (optional, local carpenter) | ₹4,000–8,000 each |
 | Delivery + installation | Usually included — confirm in writing |
 
-Total project cost with the contractor's ₹83,835: roughly **₹1.28–1.64 lakh**.
+Total project cost with the contractor's ₹83,835: roughly **₹1.36–1.72 lakh**.
 
 ## 5. Where to buy (Ahmedabad)
 
@@ -84,6 +87,8 @@ Total project cost with the contractor's ₹83,835: roughly **₹1.28–1.64 lak
 | **Spacewood / Zuari dealers** | Mid-market, decent hardware |
 | **Local market** — Naranpura, Paldi, Gota/Chandkheda shops | Cheapest; you must inspect ply grade and hinges yourself |
 | **Online** — Amazon / Flipkart | Only branded listings. "Engineered wood" = particle board. Avoid. |
+
+**7 ft widths are less common off the shelf** than 6 ft or 8 ft. If the 7 ft unit is a special order, either take a stock **8 ft** (the 16 ft wall takes it) or settle for **6 ft**.
 
 ## 6. Making it look built-in
 

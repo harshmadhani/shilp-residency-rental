@@ -43,12 +43,12 @@ Wardrobes are **out of the contractor's scope** and will be bought readymade. Ro
 | Option | Cost for 2 | Fit | Durability | Movability |
 |---|---|---|---|---|
 | Built-in, contractor | ~₹1,42,000 | Exact wall-to-wall | High (IS 710 ply) | Fixed |
-| Readymade, branded (Godrej Interio / Durian / @home) | ₹44,000–80,000 | Standard sizes; may leave gaps | Medium | **Movable** |
+| Readymade, branded (Godrej Interio / Durian / @home) | ₹52,000–88,000 | Standard sizes; may leave gaps | Medium | **Movable** |
 | Readymade, budget online (particle board) | ₹20,000–40,000 | Standard sizes | Low — swells | Movable |
 
-**Verdict:** readymade is **materially cheaper** (roughly ₹60,000–1,00,000 saved) and **fits the plan better** — it is movable, so when you rebuild the flat you can move or resell it instead of losing it. The trade-offs are: standard sizes may not fit wall-to-wall, less storage per room, and it looks less "premium" in photos. For a semi-furnished rental that is an acceptable trade; just buy **branded**, not the cheapest particle-board units.
+**Verdict:** readymade is **materially cheaper** (roughly ₹55,000–90,000 saved) and **fits the plan better** — it is movable, so when you rebuild the flat you can move or resell it instead of losing it. The trade-offs are: standard sizes may not fit wall-to-wall, less storage per room, and it looks less "premium" in photos. For a semi-furnished rental that is an acceptable trade; just buy **branded**, not the cheapest particle-board units.
 
-**From the unit plan**, both main bedrooms take a **6 ft × 7 ft × 2 ft, 3-door** unit: Bedroom 8 (master, 16'0" × 11'1½") beside the dress/toilet door, and Bedroom 7 (11'0" × 15'0") on the long wall. Bedroom 5 (13'6" × 10'6") is left free for now.
+**From the unit plan**, Bedroom 7 is the master (12'0" × 16'0") and takes a **7 ft × 7 ft × 2 ft, 4-door** unit; Bedroom 8 (15'0" × 11'0") takes **6 ft × 7 ft × 2 ft, 3-door**. Bedroom 5 (10'0" × 12'0") is left free as a study / guest room.
 
 ## 4. What was negotiated
 
@@ -87,12 +87,13 @@ Starting from the contractor's verbal quotation dated 16 Oct 2026 (furniture onl
 
 | Item | Budget |
 |---|---|
-| 6 ft × 7 ft × 2 ft, 3-door, branded | ₹22,000–40,000 each |
-| **2 units (Bedroom 8 + Bedroom 7)** | **₹44,000–80,000** |
+| 7 ft × 7 ft × 2 ft, 4-door (master, Bedroom 7) | ₹30,000–48,000 |
+| 6 ft × 7 ft × 2 ft, 3-door (Bedroom 8) | ₹22,000–40,000 |
+| **Both units** | **₹52,000–88,000** |
 | 4 ft unit (optional, Bedroom 5) | ₹14,000–24,000 |
 | Loft box above each unit (optional, local carpenter) | ₹4,000–8,000 each |
 
-**Total project cost (contractor + 2 wardrobes), branded option:** roughly **₹1.28–1.64 lakh**, versus **₹2.26 lakh** with built-in wardrobes.
+**Total project cost (contractor + 2 wardrobes), branded option:** roughly **₹1.36–1.72 lakh**, versus **₹2.26 lakh** with built-in wardrobes.
 
 Measure the clear wall width in each bedroom before ordering — standard widths (4 ft / 6 ft / 8 ft) may leave gaps. Full checklist in the [wardrobe buying guide](wardrobe-buying-guide.en.md).
 
@@ -103,6 +104,7 @@ Granite counter (already installed), sink, hob, chimney, wardrobes, fans, lights
 ## 9. Notes
 
 - All quantities are taken from the contractor's dated measurements (kitchen 30.5, six doors).
+- The plan shows the kitchen as **12'6" × 7'10½"**. An L-run of base units plus overheads on that footprint works out to roughly **30 running feet**, which is consistent with the contractor's 30.5 units — but confirm on site.
 - Rates are subject to confirmation of **GST inclusive / exclusive**.
 - Insist on the **ISI stamp and plywood purchase invoice** before material is cut.
 - Approval of layout and material to be given **in writing before cutting begins**.
