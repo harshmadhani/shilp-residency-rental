@@ -5,3 +5,4 @@ desktop.ini
 
 # Generated HTML (regenerate with: node build/md2html.js)
 build/*.html
+build/*.png
