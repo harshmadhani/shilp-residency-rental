@@ -38,15 +38,17 @@ Tenants are hard on cabinets, and this flat may be let for 5–10 years. The bui
 
 ## 3. Wardrobes — built-in vs readymade
 
-Wardrobes have been moved **out of the contractor's scope** and will be bought readymade.
+Wardrobes are **out of the contractor's scope** and will be bought readymade. Room-by-room sizes and the full buying spec are in **[wardrobe-buying-guide.en.md](wardrobe-buying-guide.en.md)**.
 
 | Option | Cost for 2 | Fit | Durability | Movability |
 |---|---|---|---|---|
 | Built-in, contractor | ~₹1,42,000 | Exact wall-to-wall | High (IS 710 ply) | Fixed |
-| Readymade, branded (Godrej Interio / Durian / @home) | ₹40,000–80,000 | Standard sizes; may leave gaps | Medium | Movable |
+| Readymade, branded (Godrej Interio / Durian / @home) | ₹44,000–80,000 | Standard sizes; may leave gaps | Medium | **Movable** |
 | Readymade, budget online (particle board) | ₹20,000–40,000 | Standard sizes | Low — swells | Movable |
 
-**Verdict:** readymade is **materially cheaper** (roughly ₹60,000–1,00,000 saved) and **fits your plan better** — it is movable, so when you rebuild the flat you can move or resell it instead of losing it. The trade-offs are: standard sizes may not fit wall-to-wall, less storage per room, and it looks less "premium" in photos. For a semi-furnished rental that is an acceptable trade; just buy **branded**, not the cheapest particle-board units.
+**Verdict:** readymade is **materially cheaper** (roughly ₹60,000–1,00,000 saved) and **fits the plan better** — it is movable, so when you rebuild the flat you can move or resell it instead of losing it. The trade-offs are: standard sizes may not fit wall-to-wall, less storage per room, and it looks less "premium" in photos. For a semi-furnished rental that is an acceptable trade; just buy **branded**, not the cheapest particle-board units.
+
+**From the unit plan**, both main bedrooms take a **6 ft × 7 ft × 2 ft, 3-door** unit: Bedroom 8 (master, 16'0" × 11'1½") beside the dress/toilet door, and Bedroom 7 (11'0" × 15'0") on the long wall. Bedroom 5 (13'6" × 10'6") is left free for now.
 
 ## 4. What was negotiated
 
@@ -85,12 +87,14 @@ Starting from the contractor's verbal quotation dated 16 Oct 2026 (furniture onl
 
 | Item | Budget |
 |---|---|
-| 2 readymade wardrobes, branded | ₹40,000–80,000 |
-| 2 readymade wardrobes, budget | ₹20,000–40,000 |
+| 6 ft × 7 ft × 2 ft, 3-door, branded | ₹22,000–40,000 each |
+| **2 units (Bedroom 8 + Bedroom 7)** | **₹44,000–80,000** |
+| 4 ft unit (optional, Bedroom 5) | ₹14,000–24,000 |
+| Loft box above each unit (optional, local carpenter) | ₹4,000–8,000 each |
 
-**Total project cost (contractor + wardrobes), branded option:** roughly **₹1.24–1.64 lakh**, versus **₹2.26 lakh** with built-in wardrobes.
+**Total project cost (contractor + 2 wardrobes), branded option:** roughly **₹1.28–1.64 lakh**, versus **₹2.26 lakh** with built-in wardrobes.
 
-Measure the available wall width in each bedroom before buying — standard widths (4 ft / 6 ft / 8 ft) may leave gaps.
+Measure the clear wall width in each bedroom before ordering — standard widths (4 ft / 6 ft / 8 ft) may leave gaps. Full checklist in the [wardrobe buying guide](wardrobe-buying-guide.en.md).
 
 ## 8. Excluded from the contractor's quotation
 

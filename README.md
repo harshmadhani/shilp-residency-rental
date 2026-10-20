@@ -9,9 +9,11 @@ Working documents for fitting out the flat for **long-term furnished rental** (t
 | File | Purpose |
 |---|---|
 | `docs/spec-and-quotation.en.md` | Materials explained, what was negotiated, and the suggested quotation (English) |
+| `docs/wardrobe-buying-guide.en.md` | What wardrobe to buy for each bedroom, sized from the unit plan |
 | `docs/vendor-confirmation.en.md` | Work confirmation / specification sheet, English reference version |
 | `docs/quotation.hi.md` | Hindi quotation — source of the PDF handed to the contractor |
 | `pdf/quotation.hi.pdf` | **Final Hindi quotation — the file to give the furniture contractor** |
+| `assets/floor-plan-3bhk.webp` | Shilp 3 BHK unit plan (room dimensions used in the wardrobe guide) |
 | `build/md2html.js` | Renders the Hindi quotation markdown to print-ready HTML |
 | `build/build-pdf.ps1` | Renders the HTML to PDF with headless Chrome |
 
