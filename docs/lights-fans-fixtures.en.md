@@ -3,7 +3,16 @@
 **Property:** Flat No. ____, C Block (3-Series), Shilp Residency, Gota, SG Highway, Ahmedabad — 3 BHK, 2,360 sq ft
 **Prices checked:** 13 November 2026
 
-**How to read the prices:** *Online* = live Amazon / Flipkart / brand-store listings at the time of writing. *Offline* = typical Ahmedabad electrical & hardware shop price (Naranpura, Paldi, Gota, Chandkheda) — expect ±15% and negotiate on a 5-fan order.
+## Where these prices come from
+
+| Column | Meaning |
+|---|---|
+| **Online** | Actual listings on **Amazon.in, Flipkart, or the brand's own store** (Havells, Crompton, Atomberg, Philips). A few come from Moglix / IndiaMART / Zepto — the source is named in each row |
+| **Delivery** | Typical delivery to **Ahmedabad city** with a normal (non-Prime) account. Add 1–2 days for bulky items like fans |
+| **Offline** | Quoted range at Ahmedabad electrical/hardware shops. Expect ±15%, and always negotiate on a 5-fan order |
+| **Offline lead** | What the shop actually needs — "same day" means you walk out with it |
+
+Prices marked **~** are typical market figures rather than a single live listing. Everything else is a price I saw on a live listing.
 
 Furniture is **₹83,835** against the **₹1,00,000** budget. This is the fixtures head, which is separate.
 
@@ -15,7 +24,7 @@ One pick per line, chosen for a flat that will be let for 2–10 years, not for 
 |---|---|---|---|---|
 | Ceiling fan | **Crompton Ariya Briz 1200 mm, white** | 5 | 2,500 | 12,500 |
 | Tube light | **Philips Slimline Ultra 20 W, 4 ft** (4000K if in stock) | 14 | 175 | 2,450 |
-| Bathroom light | **Havells Octane 12 W IP44** | 3 | 550 | 1,650 |
+| Bathroom light | **Philips 12 W IP44 round** | 3 | 550 | 1,650 |
 | Night lamp | **Philips SereneShine 0.5 W** | 3 | 135 | 405 |
 | Exhaust — toilets | **Crompton Brisk Air Plus 150 mm** (auto shutters) | 3 | 1,350 | 4,050 |
 | Exhaust — kitchen | **Havells Ventil Air DX 200 mm** | 1 | 1,450 | 1,450 |
@@ -42,8 +51,6 @@ With furniture: **₹1,26,340**.
 
 **Rental-proofing (₹1,000, do it):** keep **2 spare battens and 1 spare fan** in the flat. When something fails, the tenant or your electrician swaps it the same day instead of waiting for a warranty claim you have to chase from another city.
 
-The rest of this document is the full market comparison, if you want to trade any line off.
-
 ## 1. What the flat needs
 
 | Location | Fan | Light | Exhaust | Other |
@@ -64,85 +71,99 @@ The rest of this document is the full market comparison, if you want to trade an
 
 ## 2. Ceiling fans (5)
 
-| Brand / model | Online | Offline | Verdict |
-|---|---|---|---|
-| **Havells Pacer ES 1200 mm** (50 W, 2-yr warranty) | ₹1,999–2,386 | ₹2,200–2,600 | Cheapest branded. Fine for a rental |
-| **Crompton Ariya Briz 1200 mm** (star-rated) | ₹2,397–2,699 | ₹2,500–2,800 | **Recommended** — better air delivery for ~₹200 more |
-| Atomberg Renesa Prime 1200 mm BLDC (28 W, remote) | ₹2,999–3,599 | ₹3,200–3,800 | Only if you want remote + low noise. Tenant pays the bill, so BLDC saves *him*, not you |
-| Havells Stealth Air BLDC 1200 mm | ₹7,990 | ₹7,500–8,300 | Skip. Premium decor fan, wrong for a rental |
+| Brand / model | Online | Delivery | Offline | Offline lead |
+|---|---|---|---|---|
+| **Havells Pacer ES 1200 mm**, 50 W | ₹1,999 (Flipkart) – ₹2,386 (Moglix) | 2–3 days | ₹2,200–2,600 | Same day |
+| **Crompton Ariya Briz 1200 mm** | ₹2,397 (Amazon) – ₹2,699 (Flipkart) | 1–3 days | ₹2,400–2,700 | Same day |
+| Atomberg Renesa Prime 1200 mm BLDC | ₹2,999 (Flipkart) – ₹3,599 (Atomberg.com) | 3–5 days | ₹3,200–3,800 | 2–3 days (order) |
+| Havells Stealth Air BLDC 1200 mm | ₹7,990 (Amazon) | 2–4 days | ₹7,500–8,300 | Same day |
 
-**Buy:** Crompton Ariya Briz, 5 nos. Offline dealers will often match the online price on a 5-fan order and throw in the downrods.
+**Buy:** Crompton Ariya Briz, 5 nos. **Best move: walk into a Crompton dealer with the Amazon price on your phone.** On five fans they will usually match it, and you get them the same day with a local warranty contact.
 
 ## 3. LED battens — tube lights (14)
 
-| Brand / model | Online | Offline | Verdict |
-|---|---|---|---|
-| **Philips Slimline Ultra 20 W, 4 ft** | ₹150–180 | ₹180–250 | **Recommended** — cheapest branded, 2000 lumens |
-| **Havells Pride Ultra NXT 20 W, 4 ft** (Triyca 3-in-1) | ₹219–250 | ₹200–260 | Better if you want switchable colour temperature |
-| Wipro Garnet 20 W, 4 ft | ₹220–300 | ₹220–300 | Acceptable |
+| Brand / model | Online | Delivery | Offline | Offline lead |
+|---|---|---|---|---|
+| **Philips Slimline Ultra 20 W, 4 ft** | ₹150 (Philips store) – ₹169 (Zepto) – ₹180 (retail) | Same day (Zepto) / 2–3 days (Amazon) | ₹180–250 | Same day |
+| **Havells Pride Ultra NXT 20 W, 4 ft** (Triyca) | ₹219 (Zepto) – ₹250 (Flipkart) | Same day / 2–3 days | ₹200–260 | Same day |
+| Wipro Garnet 20 W, 4 ft | ~₹220–300 (Amazon) | 2–4 days | ₹220–300 | Same day |
 
-**Note:** 6500K cool white is the standard and cheapest stock. **4000K neutral white** costs ₹20–40 more and looks far better in a home — worth it for photos.
+**Note:** 6500K cool white is standard and cheapest. **4000K neutral white** costs ₹20–40 more and looks far better in a home — worth it for photos. Check the box says 4000K before you pay.
 
 ## 4. Bathroom lights (3)
 
-| Brand / model | Online | Offline | Verdict |
-|---|---|---|---|
-| Wipro 10 W IP44 | ₹350–500 | ₹400–550 | Cheapest safe option |
-| **Havells Octane 12 W IP44** | ₹450–650 | ₹450–650 | **Recommended** — good light, IP44 |
-| **Philips Spray 12 W IP44** (29 cm) | ₹649–750 | ₹650–800 | Best looking, slightly dearer |
+| Brand / model | Online | Delivery | Offline | Offline lead |
+|---|---|---|---|---|
+| **Philips 12 W IP44 round** | ₹185–649 (Philips store) | 3–5 days | ₹400–600 | Same day |
+| **Philips Spray 12 W IP44**, 29 cm | ₹649–750 (Philips store) | 3–5 days | ₹650–800 | 1–2 days (order) |
+| Wipro / Havells 10–12 W IP44 | ~₹350–500 (Amazon) | 2–4 days | ₹350–550 | Same day |
 
-**Must be IP44 or better.** Anything less corrodes in an Indian bathroom within two years.
+**Must be IP44 or better.** Anything less corrodes in an Indian bathroom within two years. This is the one place I would not buy the cheapest thing on the shelf.
 
 ## 5. Night lamps (3)
 
-| Brand / model | Online | Offline | Verdict |
-|---|---|---|---|
-| **Orient Deco 0.5 W plug-in** | ₹95 | ₹90–150 | Cheapest, does the job |
-| **Philips SereneShine 0.5 W plug-in** | ₹122–149 | ₹120–180 | **Recommended** — better build, warm white |
+| Brand / model | Online | Delivery | Offline | Offline lead |
+|---|---|---|---|---|
+| **Philips SereneShine 0.5 W** plug-in | ₹122–149 (Amazon) | 2–3 days | ₹120–180 | Same day |
+| Orient Deco 0.5 W plug-in | ₹95 (orientelectric.com) | 3–5 days | ₹90–150 | Same day |
 
 Both are 2-pin plug-in, no wiring needed — **but check each bedroom has a live socket near the bed.**
 
 ## 6. Exhaust fans (4)
 
-| Brand / model | Online | Offline | Verdict |
-|---|---|---|---|
-| **Crompton Brisk Air 150 mm** (6") | ₹1,099–1,449 | ₹1,100–1,500 | **Recommended** for the 3 toilets |
-| **Havells Ventil Air DX 150 mm** | ₹1,340–1,590 | ₹1,350–1,650 | Similar; pick whichever the dealer stocks |
-| **Havells Ventil Air DX 200 mm** (8") | ₹1,200–1,600 | ₹1,250–1,700 | For the kitchen (98 sq ft) |
-| Atomberg Efficio 150 mm BLDC | ₹1,489–2,300 | — | Quieter, but overkill here |
+| Brand / model | Online | Delivery | Offline | Offline lead |
+|---|---|---|---|---|
+| **Crompton Brisk Air Plus 150 mm** (6", auto shutters) | ₹1,099 (Zepto) – ₹1,380 (Amazon) – ₹1,449 (ibo) | Same day – 3 days | ₹1,100–1,500 | Same day |
+| **Havells Ventil Air DX 150 mm** | ₹1,340 (Havells.com) – ₹1,590 (Amazon) | 2–4 days | ₹1,350–1,650 | Same day |
+| **Havells Ventil Air DX 200 mm** (8") — kitchen | ₹1,200–1,600 (Amazon / IndiaMART) | 2–4 days | ₹1,250–1,700 | 1–2 days |
+| Atomberg Efficio 150 mm BLDC | ₹1,489 (retail listing) | 3–5 days | — | — |
 
-**Measure the cut-out before buying.** 150 mm for the three toilets, 200 mm for the kitchen. Wrong size = a new hole in the wall.
+**Buy offline.** The cut-out must match: **150 mm for the three toilets, 200 mm for the kitchen.** If you order the wrong size online you are drilling a new hole in the wall.
 
 ## 7. Curtain rods / pipes (6)
 
-| Brand / model | Online | Offline | Verdict |
-|---|---|---|---|
-| Amazon Basics adjustable 1" rod, 3–6 ft | ₹700–1,200 | — | Fine for the 3 bedroom windows |
-| RAB SS curtain pipe, 6 ft | ₹599 | — | Good value, but thin wall |
-| **Local SS pipe, 1" (25 mm)** | — | ₹120–200/ft + ₹250 fitting | **Recommended for living, dining and balcony** — long spans need a real pipe |
+| Brand / model | Online | Delivery | Offline | Offline lead |
+|---|---|---|---|---|
+| Amazon Basics adjustable 1" rod, 3–6 ft | ₹700–1,200 | 2–4 days | — | — |
+| RAB SS curtain pipe, 6 ft | ₹599 (Amazon) | 2–4 days | — | — |
+| **Local SS pipe, 1" (25 mm)** | — | — | ₹120–200/ft + ₹250 fitting | Same day |
 
-**Rule:** bedroom windows (5–6 ft) → buy online. Living / dining / balcony (10–12 ft) → local pipe, cut and fitted on site.
+**Rule:** bedroom windows (5–6 ft) can be bought online. Living / dining / balcony (10–12 ft) need a local pipe, because long spans sag with a thin online rod.
 
 ## 8. Bathroom accessories (3 sets)
 
-| Brand / model | Online | Offline | Verdict |
-|---|---|---|---|
-| **Local SS 304 5-piece set** (towel rod, ring, soap dish, shelf, TP holder) | ₹800–1,500/set | ₹800–1,500/set | **Recommended** — best value for a rental |
-| Essco by Jaquar towel rod | ₹597–1,130 | ₹700–1,200 | Good mid-brand |
-| Cera soap dish | ₹847 | ₹850–1,000 | Branded, per piece |
-| Jaquar soap dish | ₹1,610 | ₹1,600–1,900 | Premium line — a full Jaquar set runs ₹6,000+ |
-| Hindware towel bar | ₹1,440 | ₹1,400–1,600 | — |
+| Brand / model | Online | Delivery | Offline | Offline lead |
+|---|---|---|---|---|
+| **Local SS 304 5-piece set** (towel rod, ring, soap dish, shelf, TP holder) | ₹150–200/piece wholesale (IndiaMART) | 3–7 days | ₹800–1,500/set | Same day |
+| Essco by Jaquar towel rod | ₹597–1,130 (Flipkart / Amazon) | 2–4 days | ₹700–1,200 | 1–2 days |
+| Cera soap dish | ₹847 (Flipkart) | 2–4 days | ₹850–1,000 | 1–2 days |
+| Hindware towel bar | ₹1,440 (Hindware) | 3–5 days | ₹1,400–1,600 | 1–2 days |
+| Jaquar soap dish | ₹1,610 (Amazon) | 2–4 days | ₹1,600–1,900 | 1–2 days |
 
 **Buy SS 304, not SS 202** — 202 spots and rusts in a wet bathroom. A full branded set is 3–4× the price of a local SS set and adds nothing a tenant will pay for.
 
 ## 9. Mirrors (3)
 
-| Source | Price | Note |
+| Source | Price | Delivery / lead |
 |---|---|---|
-| Local glass shop, 18" × 24", 5 mm, polished edge | ₹700–1,200 | **Recommended** — they cut, drill and fit |
-| Online (Amazon/Flipkart) | ₹500–1,000 | Breakage in transit is common; returns take a week |
+| **Local glass shop** — 18" × 24", 5 mm, polished edge | ₹700–1,200 | Same day, or 1 day if drilled to order |
+| Online (Amazon / Flipkart) | ₹500–1,000 | 3–7 days, breakage in transit is common |
 
-## 10. The buy list — three costed tiers
+Buy local. The ₹200 you save online is not worth a replacement cycle.
+
+## 10. Where to go offline in Ahmedabad
+
+| Area | Good for |
+|---|---|
+| **Naranpura / AEC Cross Road** | Fans, lights, exhausts — the main electrical market, best prices |
+| **Relief Road / Kalupur** | Wholesale electrical, if you are buying all 14 battens at once |
+| **Gota / Chandkheda** (near the flat) | Convenience and returns; 5–10% dearer |
+| **SG Highway showrooms** | Havells, Crompton, Jaquar — full range, fixed prices, good for seeing finishes |
+| **Paldi / Bhattha** | Hardware, SS 304 accessories, curtain pipes |
+
+**Practical play:** buy **fans, battens and exhausts offline** at Naranpura (same day, local warranty, easy replacement), and **order only the small stuff online** — night lamps, IP44 bath lights, Essco accessories. That removes the delivery wait entirely and costs maybe ₹1,000 more than the online total.
+
+## 11. The buy list — three costed tiers
 
 ### Tier 1 — Value
 
@@ -150,7 +171,7 @@ Both are 2-pin plug-in, no wiring needed — **but check each bedroom has a live
 |---|---|---|---|---|
 | Ceiling fans | Havells Pacer ES 1200 mm | 5 | 2,200 | 11,000 |
 | LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
-| Bathroom lights | Havells Octane 12 W IP44 | 3 | 550 | 1,650 |
+| Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
 | Night lamps | Philips SereneShine 0.5 W | 3 | 135 | 405 |
 | Exhaust — toilets | Crompton Brisk Air 150 mm | 3 | 1,300 | 3,900 |
 | Exhaust — kitchen | Havells Ventil Air DX 200 mm | 1 | 1,450 | 1,450 |
@@ -167,16 +188,16 @@ Both are 2-pin plug-in, no wiring needed — **but check each bedroom has a live
 |---|---|---|---|---|
 | Ceiling fans | **Crompton Ariya Briz 1200 mm** | 5 | 2,500 | 12,500 |
 | LED battens | **Havells Pride Ultra NXT 20 W** | 14 | 235 | 3,290 |
-| Bathroom lights | **Philips Spray 12 W IP44** | 3 | 700 | 2,100 |
+| Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
 | Night lamps | Philips SereneShine 0.5 W | 3 | 135 | 405 |
 | Exhaust — toilets | Havells Ventil Air DX 150 mm | 3 | 1,500 | 4,500 |
 | Exhaust — kitchen | Havells Ventil Air DX 200 mm | 1 | 1,550 | 1,550 |
 | Curtain rods | Local SS pipe 1" | 6 | 1,100 | 6,600 |
 | Bath accessories | Essco by Jaquar | 3 | 2,200 | 6,600 |
 | Mirrors | Local 18" × 24" | 3 | 900 | 2,700 |
-| | **Material** | | | **40,245** |
+| | **Material** | | | **39,795** |
 | | Installation | | | 8,500 |
-| | **TOTAL** | | | **48,745** |
+| | **TOTAL** | | | **48,295** |
 
 ### Tier 3 — Best
 
@@ -194,15 +215,15 @@ Both are 2-pin plug-in, no wiring needed — **but check each bedroom has a live
 | | Installation | | | 9,000 |
 | | **TOTAL** | | | **59,000** |
 
-## 11. Where the whole fit-out lands
+## 12. Where the whole fit-out lands
 
 | Head | Value | Recommended | Best |
 |---|---|---|---|
 | Furniture (kitchen + doors) | 83,835 | 83,835 | 83,835 |
-| Fixtures | 40,255 | 48,745 | 59,000 |
-| **Total** | **1,24,090** | **1,32,580** | **1,42,835** |
+| Fixtures | 40,255 | 48,295 | 59,000 |
+| **Total** | **1,24,090** | **1,32,130** | **1,42,835** |
 
-## 12. Installation — the only part you need a person for
+## 13. Installation — the only part you need a person for
 
 | Work | Rate | Qty | Approx |
 |---|---|---|---|
@@ -216,7 +237,7 @@ Both are 2-pin plug-in, no wiring needed — **but check each bedroom has a live
 
 New wiring point, if needed: **₹300–500 each.**
 
-## 13. Spec rules that actually matter
+## 14. Spec rules that actually matter
 
 - **Bathroom lights: IP44 minimum.**
 - **Bath accessories: SS 304, never SS 202.**
@@ -225,18 +246,19 @@ New wiring point, if needed: **₹300–500 each.**
 - **Exhaust: match the cut-out** — 150 mm toilets, 200 mm kitchen.
 - **Curtain rods: 25 mm (1"), brackets every 3 ft, 6–8" overhang** each side of the window.
 
-## 14. What not to buy online
+## 15. What not to buy online
 
 - Exhaust fans — fit risk, and you need the hole measured first
 - Long curtain pipes — length and bracket quality
 - Mirrors — breakage
 - Anything you need **today**
 
-## 15. Order of work
+## 16. Order of work
 
 1. Measure the exhaust cut-outs and every window width.
-2. Order online: fans, battens, bath lights, night lamps, Essco/Jaquar accessories. Allow 3–7 days.
-3. Buy locally: exhausts, long curtain pipes, mirrors.
-4. Electrician does a **point check** — what exists, what needs a new point.
-5. Install fans and lights → exhausts → curtain rods → bathroom fittings.
-6. Keep invoices and warranty cards in the tenant file.
+2. Visit the Naranpura dealer with the Amazon prices on your phone — fans, battens, exhausts.
+3. Order online only the small items: night lamps, IP44 bath lights, Essco accessories. Allow 3–7 days.
+4. Buy locally: long curtain pipes, mirrors, SS 304 accessories.
+5. Electrician does a **point check** — what exists, what needs a new point.
+6. Install fans and lights → exhausts → curtain rods → bathroom fittings.
+7. Keep invoices and warranty cards in the tenant file.
