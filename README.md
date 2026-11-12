@@ -10,16 +10,19 @@ Working documents for fitting out the flat for **long-term furnished rental** (t
 |---|---|
 | `docs/spec-and-quotation.en.md` | Materials explained, what was negotiated, and the suggested quotation (English) |
 | `docs/wardrobe-buying-guide.en.md` | What wardrobe to buy for each bedroom, sized from the unit plan |
+| `docs/lights-fans-fixtures.en.md` | Online vs local comparison, buy list and budget for lights, fans, exhausts, curtain rods and bathroom fittings |
 | `docs/vendor-confirmation.en.md` | Work confirmation / specification sheet, English reference version |
 | `docs/quotation.hi.md` | Hindi quotation — source of the PDF handed to the contractor |
-| `pdf/quotation.hi.pdf` | **Final Hindi quotation — the file to give the furniture contractor** |
-| `assets/floor-plan-3bhk.webp` | Shilp 3 BHK unit plan (room dimensions used in the wardrobe guide) |
-| `build/md2html.js` | Renders the Hindi quotation markdown to print-ready HTML |
+| `pdf/quotation.hi.pdf` | **Hindi quotation — the file to give the furniture contractor** |
+| `docs/fitting-list.hi.md` | Hindi fitting list — source of the PDF handed to the electrician |
+| `pdf/fitting-list.hi.pdf` | **Hindi fitting list — the file to give the electrician** |
+| `assets/floor-plan-3bhk.webp` | Shilp 3 BHK unit plan (room dimensions used in the guides) |
+| `build/md2html.js` | Renders the Hindi documents to print-ready HTML |
 | `build/build-pdf.ps1` | Renders the HTML to PDF with headless Chrome |
 
-English documents are kept as markdown for reference. Only the final quotation is produced in Hindi as a PDF, because that is all the contractor needs.
+English documents are kept as markdown for reference. Only the two documents that go to tradesmen — the quotation and the fitting list — are produced in Hindi as PDFs.
 
-## Rebuilding the PDF
+## Rebuilding the PDFs
 
 ```powershell
 node build/md2html.js
