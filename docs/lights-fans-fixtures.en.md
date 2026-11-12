@@ -7,6 +7,43 @@
 
 Furniture is **₹83,835** against the **₹1,00,000** budget. This is the fixtures head, which is separate.
 
+## Recommended for a rented flat — buy exactly this
+
+One pick per line, chosen for a flat that will be let for 2–10 years, not for the best spec sheet.
+
+| Item | Exact product | Qty | Unit (₹) | Total (₹) |
+|---|---|---|---|---|
+| Ceiling fan | **Crompton Ariya Briz 1200 mm, white** | 5 | 2,500 | 12,500 |
+| Tube light | **Philips Slimline Ultra 20 W, 4 ft** (4000K if in stock) | 14 | 175 | 2,450 |
+| Bathroom light | **Havells Octane 12 W IP44** | 3 | 550 | 1,650 |
+| Night lamp | **Philips SereneShine 0.5 W** | 3 | 135 | 405 |
+| Exhaust — toilets | **Crompton Brisk Air Plus 150 mm** (auto shutters) | 3 | 1,350 | 4,050 |
+| Exhaust — kitchen | **Havells Ventil Air DX 200 mm** | 1 | 1,450 | 1,450 |
+| Curtain rods | **Local SS 1" pipe**, cut and fitted | 6 | 1,000 | 6,000 |
+| Bath accessories | **Local SS 304 5-piece set** | 3 | 1,200 | 3,600 |
+| Mirrors | **Local 18" × 24", 5 mm** | 3 | 800 | 2,400 |
+| | **Material** | | | **34,505** |
+| | Installation | | | 8,000 |
+| | **TOTAL** | | | **42,505** |
+
+With furniture: **₹1,26,340**.
+
+**Why these, and not the cheaper option**
+
+- The ₹500 saved per fan on a Havells Pacer is not worth a fan that rattles by year three. Crompton Ariya Briz is the cheapest fan that still feels solid.
+- Philips Slimline Ultra is already the cheapest branded batten. Going below it means unbranded stock that dies in 18 months.
+- Local SS 304 accessories look identical to Jaquar at 3 feet. A tenant will not pay ₹500 more rent for a branded soap dish.
+
+**Why not the better option**
+
+- **No BLDC, no remotes.** The tenant pays the electricity bill, so the saving is his, not yours. A lost remote is a phone call to you.
+- **No decorative or glass-shade fittings.** They break, and replacements are discontinued within two years.
+- **No Jaquar/Hindware full sets.** Three bathrooms would add ₹15,000 and change nothing about the rent.
+
+**Rental-proofing (₹1,000, do it):** keep **2 spare battens and 1 spare fan** in the flat. When something fails, the tenant or your electrician swaps it the same day instead of waiting for a warranty claim you have to chase from another city.
+
+The rest of this document is the full market comparison, if you want to trade any line off.
+
 ## 1. What the flat needs
 
 | Location | Fan | Light | Exhaust | Other |
