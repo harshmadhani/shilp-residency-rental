@@ -1,133 +1,205 @@
-# Lights, Fans, Fixtures & Bathroom Accessories
+# Lights, Fans & Fixtures — Brands, Models and Prices
 
 **Property:** Flat No. ____, C Block (3-Series), Shilp Residency, Gota, SG Highway, Ahmedabad — 3 BHK, 2,360 sq ft
-**Date:** 12 November 2026
+**Prices checked:** 13 November 2026
 
-Furniture is settled: the contractor's quote is **₹83,835** against your **₹1,00,000** furniture budget — ₹16,165 still free. This document covers the **fixtures head**, which is separate: lights, fans, exhausts, curtain rods and bathroom fittings.
+**How to read the prices:** *Online* = live Amazon / Flipkart / brand-store listings at the time of writing. *Offline* = typical Ahmedabad electrical & hardware shop price (Naranpura, Paldi, Gota, Chandkheda) — expect ±15% and negotiate on a 5-fan order.
+
+Furniture is **₹83,835** against the **₹1,00,000** budget. This is the fixtures head, which is separate.
 
 ## 1. What the flat needs
-
-Counts follow the unit plan (3 toilets: 7A master, 8A, and the common 6).
 
 | Location | Fan | Light | Exhaust | Other |
 |---|---|---|---|---|
 | Personal foyer | — | 1 | — | — |
 | Living room | 1 | 2 | — | curtain rod |
 | Dining | 1 | 1 | — | curtain rod |
-| Kitchen | — | 2 | 1 | — |
+| Kitchen | — | 2 | 1 × 200 mm | — |
 | Store | — | 1 | — | — |
-| Wash | — | 1 | 1 | — |
+| Wash | — | 1 | — | — |
 | Passage | — | 2 | — | — |
 | Bedroom 5 | 1 | 1 | — | night lamp, curtain rod |
 | Bedroom 7 (master) | 1 | 1 | — | night lamp, curtain rod |
 | Bedroom 8 | 1 | 1 | — | night lamp, curtain rod |
 | Balcony | — | 1 | — | curtain rod |
-| Toilet 7A / 8A / 6 | — | 3 | 3 | accessories, mirror |
+| Toilet 7A / 8A / 6 | — | 3 | 3 × 150 mm | accessories, mirror |
 | **Total** | **5** | **14 + 3** | **4** | **6 rods, 3 bath sets, 3 mirrors** |
 
-## 2. Online vs local — item by item
+## 2. Ceiling fans (5)
 
-| Item | Qty | Online | Local shop | Buy where | Why |
-|---|---|---|---|---|---|
-| Ceiling fan, 1200 mm | 5 | ₹1,900–3,600 | ₹1,900–3,500 | **Online** | Bigger model choice, brand warranty, 5–10% cheaper. Order from the brand's own store on Amazon/Flipkart |
-| LED batten, 20 W, 4 ft | 14 | ₹350–550 | ₹400–650 | **Online** | Cheapest per unit. Buy a couple spare — transit damage happens |
-| Bathroom light, IP44, 12 W | 3 | ₹450–900 | ₹400–800 | **Online** | Local stock is limited to whatever the dealer has |
-| Night lamp | 3 | ₹200–450 | ₹150–400 | **Online** | Trivial item, wide choice |
-| **Exhaust fan, 150/200 mm** | 4 | ₹950–2,200 | ₹900–2,000 | **Local** | Must match the existing cut-out / window. Measure first, buy where you can return it |
-| **Curtain rod / pipe set** | 6 | ₹400–1,200 | ₹350–1,000 | **Local** | Needs cutting to length; local man measures, supplies and fits |
-| Bathroom accessory set | 3 | ₹1,500–3,500 | ₹1,200–3,000 | **Online** for branded (Jaquar/Cera), **local** for plain steel | Branded sets are much cheaper online; unbranded steel is a local hardware buy |
-| **Mirror, 18" × 24"** | 3 | ₹700–1,500 | ₹600–1,300 | **Local** | Glass breaks in transit. Buy from a glass/mirror shop and have it fitted |
-
-**Rule of thumb:** if it is a **standard size and branded**, buy online. If it must **match an existing hole or be cut to length**, buy local.
-
-## 3. Recommended buy list
-
-| # | Item | Qty | Rate (₹) | Amount (₹) |
-|---|---|---|---|---|
-| 1 | Ceiling fan 1200 mm, branded | 5 | 2,600 | 13,000 |
-| 2 | LED batten 20 W | 14 | 500 | 7,000 |
-| 3 | Bathroom light IP44 12 W | 3 | 700 | 2,100 |
-| 4 | Night lamp | 3 | 300 | 900 |
-| 5 | Exhaust fan | 4 | 1,300 | 5,200 |
-| 6 | Curtain rod set (rod + brackets + rings) | 6 | 800 | 4,800 |
-| 7 | Bathroom accessory set (rod, ring, soap dish, shelf, TP holder) | 3 | 2,500 | 7,500 |
-| 8 | Mirror 18" × 24" | 3 | 1,100 | 3,300 |
-|   | **Material total** |   |   | **43,800** |
-| 9 | Installation labour (electrician + curtain/accessory fitting) | — | — | 8,000 |
-|   | **TOTAL — fixtures** |   |   | **51,800** |
-
-### Lean alternative (same coverage, cheaper brands)
-
-| # | Item | Qty | Rate (₹) | Amount (₹) |
-|---|---|---|---|---|
-| 1 | Ceiling fan 1200 mm | 5 | 2,000 | 10,000 |
-| 2 | LED batten 20 W | 14 | 380 | 5,320 |
-| 3 | Bathroom light IP44 | 3 | 450 | 1,350 |
-| 4 | Night lamp | 3 | 200 | 600 |
-| 5 | Exhaust fan (toilets only) | 3 | 950 | 2,850 |
-| 6 | Curtain rod set | 6 | 600 | 3,600 |
-| 7 | Bathroom accessory set | 3 | 1,400 | 4,200 |
-| 8 | Mirror | 3 | 750 | 2,250 |
-|   | **Material total** |   |   | **30,170** |
-| 9 | Installation labour | — | — | 6,500 |
-|   | **TOTAL — fixtures** |   |   | **36,670** |
-
-## 4. Where the whole fit-out lands
-
-| Head | Cost |
-|---|---|
-| Furniture (kitchen + door laminates) | ₹83,835 |
-| Fixtures (recommended) | ₹51,800 |
-| **Total** | **₹1,35,635** |
-
-Or with the lean fixture list: **₹1,20,505**.
-
-Your ₹1 lakh furniture budget still holds — the fixtures are the extra head. If you want the **whole** fit-out under ₹1 lakh, the only real lever is the kitchen spec, not the lights.
-
-## 5. Installation — the one part you need a person for
-
-You are right that almost everything can be bought online. What cannot is the fitting, and a **local electrician** is the right person — not the furniture contractor.
-
-| Work | Typical rate | Qty | Approx |
+| Brand / model | Online | Offline | Verdict |
 |---|---|---|---|
-| Ceiling fan installation | ₹250–400 each | 5 | ₹1,250–2,000 |
-| LED batten | ₹100–150 each | 14 | ₹1,400–2,100 |
-| Bathroom light | ₹150–200 each | 3 | ₹450–600 |
-| Exhaust fan | ₹250–400 each | 4 | ₹1,000–1,600 |
-| Curtain rod (drill + fit) | ₹200–350 each | 6 | ₹1,200–2,100 |
+| **Havells Pacer ES 1200 mm** (50 W, 2-yr warranty) | ₹1,999–2,386 | ₹2,200–2,600 | Cheapest branded. Fine for a rental |
+| **Crompton Ariya Briz 1200 mm** (star-rated) | ₹2,397–2,699 | ₹2,500–2,800 | **Recommended** — better air delivery for ~₹200 more |
+| Atomberg Renesa Prime 1200 mm BLDC (28 W, remote) | ₹2,999–3,599 | ₹3,200–3,800 | Only if you want remote + low noise. Tenant pays the bill, so BLDC saves *him*, not you |
+| Havells Stealth Air BLDC 1200 mm | ₹7,990 | ₹7,500–8,300 | Skip. Premium decor fan, wrong for a rental |
+
+**Buy:** Crompton Ariya Briz, 5 nos. Offline dealers will often match the online price on a 5-fan order and throw in the downrods.
+
+## 3. LED battens — tube lights (14)
+
+| Brand / model | Online | Offline | Verdict |
+|---|---|---|---|
+| **Philips Slimline Ultra 20 W, 4 ft** | ₹150–180 | ₹180–250 | **Recommended** — cheapest branded, 2000 lumens |
+| **Havells Pride Ultra NXT 20 W, 4 ft** (Triyca 3-in-1) | ₹219–250 | ₹200–260 | Better if you want switchable colour temperature |
+| Wipro Garnet 20 W, 4 ft | ₹220–300 | ₹220–300 | Acceptable |
+
+**Note:** 6500K cool white is the standard and cheapest stock. **4000K neutral white** costs ₹20–40 more and looks far better in a home — worth it for photos.
+
+## 4. Bathroom lights (3)
+
+| Brand / model | Online | Offline | Verdict |
+|---|---|---|---|
+| Wipro 10 W IP44 | ₹350–500 | ₹400–550 | Cheapest safe option |
+| **Havells Octane 12 W IP44** | ₹450–650 | ₹450–650 | **Recommended** — good light, IP44 |
+| **Philips Spray 12 W IP44** (29 cm) | ₹649–750 | ₹650–800 | Best looking, slightly dearer |
+
+**Must be IP44 or better.** Anything less corrodes in an Indian bathroom within two years.
+
+## 5. Night lamps (3)
+
+| Brand / model | Online | Offline | Verdict |
+|---|---|---|---|
+| **Orient Deco 0.5 W plug-in** | ₹95 | ₹90–150 | Cheapest, does the job |
+| **Philips SereneShine 0.5 W plug-in** | ₹122–149 | ₹120–180 | **Recommended** — better build, warm white |
+
+Both are 2-pin plug-in, no wiring needed — **but check each bedroom has a live socket near the bed.**
+
+## 6. Exhaust fans (4)
+
+| Brand / model | Online | Offline | Verdict |
+|---|---|---|---|
+| **Crompton Brisk Air 150 mm** (6") | ₹1,099–1,449 | ₹1,100–1,500 | **Recommended** for the 3 toilets |
+| **Havells Ventil Air DX 150 mm** | ₹1,340–1,590 | ₹1,350–1,650 | Similar; pick whichever the dealer stocks |
+| **Havells Ventil Air DX 200 mm** (8") | ₹1,200–1,600 | ₹1,250–1,700 | For the kitchen (98 sq ft) |
+| Atomberg Efficio 150 mm BLDC | ₹1,489–2,300 | — | Quieter, but overkill here |
+
+**Measure the cut-out before buying.** 150 mm for the three toilets, 200 mm for the kitchen. Wrong size = a new hole in the wall.
+
+## 7. Curtain rods / pipes (6)
+
+| Brand / model | Online | Offline | Verdict |
+|---|---|---|---|
+| Amazon Basics adjustable 1" rod, 3–6 ft | ₹700–1,200 | — | Fine for the 3 bedroom windows |
+| RAB SS curtain pipe, 6 ft | ₹599 | — | Good value, but thin wall |
+| **Local SS pipe, 1" (25 mm)** | — | ₹120–200/ft + ₹250 fitting | **Recommended for living, dining and balcony** — long spans need a real pipe |
+
+**Rule:** bedroom windows (5–6 ft) → buy online. Living / dining / balcony (10–12 ft) → local pipe, cut and fitted on site.
+
+## 8. Bathroom accessories (3 sets)
+
+| Brand / model | Online | Offline | Verdict |
+|---|---|---|---|
+| **Local SS 304 5-piece set** (towel rod, ring, soap dish, shelf, TP holder) | ₹800–1,500/set | ₹800–1,500/set | **Recommended** — best value for a rental |
+| Essco by Jaquar towel rod | ₹597–1,130 | ₹700–1,200 | Good mid-brand |
+| Cera soap dish | ₹847 | ₹850–1,000 | Branded, per piece |
+| Jaquar soap dish | ₹1,610 | ₹1,600–1,900 | Premium line — a full Jaquar set runs ₹6,000+ |
+| Hindware towel bar | ₹1,440 | ₹1,400–1,600 | — |
+
+**Buy SS 304, not SS 202** — 202 spots and rusts in a wet bathroom. A full branded set is 3–4× the price of a local SS set and adds nothing a tenant will pay for.
+
+## 9. Mirrors (3)
+
+| Source | Price | Note |
+|---|---|---|
+| Local glass shop, 18" × 24", 5 mm, polished edge | ₹700–1,200 | **Recommended** — they cut, drill and fit |
+| Online (Amazon/Flipkart) | ₹500–1,000 | Breakage in transit is common; returns take a week |
+
+## 10. The buy list — three costed tiers
+
+### Tier 1 — Value
+
+| Item | Brand / model | Qty | Unit (₹) | Total (₹) |
+|---|---|---|---|---|
+| Ceiling fans | Havells Pacer ES 1200 mm | 5 | 2,200 | 11,000 |
+| LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
+| Bathroom lights | Havells Octane 12 W IP44 | 3 | 550 | 1,650 |
+| Night lamps | Philips SereneShine 0.5 W | 3 | 135 | 405 |
+| Exhaust — toilets | Crompton Brisk Air 150 mm | 3 | 1,300 | 3,900 |
+| Exhaust — kitchen | Havells Ventil Air DX 200 mm | 1 | 1,450 | 1,450 |
+| Curtain rods | Local SS pipe 1" | 6 | 900 | 5,400 |
+| Bath accessories | Local SS 304 5-piece | 3 | 1,200 | 3,600 |
+| Mirrors | Local 18" × 24" | 3 | 800 | 2,400 |
+| | **Material** | | | **32,255** |
+| | Installation | | | 8,000 |
+| | **TOTAL** | | | **40,255** |
+
+### Tier 2 — Recommended
+
+| Item | Brand / model | Qty | Unit (₹) | Total (₹) |
+|---|---|---|---|---|
+| Ceiling fans | **Crompton Ariya Briz 1200 mm** | 5 | 2,500 | 12,500 |
+| LED battens | **Havells Pride Ultra NXT 20 W** | 14 | 235 | 3,290 |
+| Bathroom lights | **Philips Spray 12 W IP44** | 3 | 700 | 2,100 |
+| Night lamps | Philips SereneShine 0.5 W | 3 | 135 | 405 |
+| Exhaust — toilets | Havells Ventil Air DX 150 mm | 3 | 1,500 | 4,500 |
+| Exhaust — kitchen | Havells Ventil Air DX 200 mm | 1 | 1,550 | 1,550 |
+| Curtain rods | Local SS pipe 1" | 6 | 1,100 | 6,600 |
+| Bath accessories | Essco by Jaquar | 3 | 2,200 | 6,600 |
+| Mirrors | Local 18" × 24" | 3 | 900 | 2,700 |
+| | **Material** | | | **40,245** |
+| | Installation | | | 8,500 |
+| | **TOTAL** | | | **48,745** |
+
+### Tier 3 — Best
+
+| Item | Brand / model | Qty | Unit (₹) | Total (₹) |
+|---|---|---|---|---|
+| Ceiling fans | Atomberg Renesa Prime BLDC | 5 | 3,300 | 16,500 |
+| LED battens | Philips / Havells 20 W | 14 | 250 | 3,500 |
+| Bathroom lights | Philips Spray 12 W IP44 | 3 | 750 | 2,250 |
+| Night lamps | Philips SereneShine | 3 | 150 | 450 |
+| Exhaust | Havells Ventil Air DX 150/200 mm | 4 | 1,650 | 6,600 |
+| Curtain rods | Local SS pipe, premium brackets | 6 | 1,300 | 7,800 |
+| Bath accessories | Jaquar / Cera | 3 | 3,200 | 9,600 |
+| Mirrors | Local 18" × 24" | 3 | 1,100 | 3,300 |
+| | **Material** | | | **50,000** |
+| | Installation | | | 9,000 |
+| | **TOTAL** | | | **59,000** |
+
+## 11. Where the whole fit-out lands
+
+| Head | Value | Recommended | Best |
+|---|---|---|---|
+| Furniture (kitchen + doors) | 83,835 | 83,835 | 83,835 |
+| Fixtures | 40,255 | 48,745 | 59,000 |
+| **Total** | **1,24,090** | **1,32,580** | **1,42,835** |
+
+## 12. Installation — the only part you need a person for
+
+| Work | Rate | Qty | Approx |
+|---|---|---|---|
+| Ceiling fan | ₹250–400 | 5 | ₹1,250–2,000 |
+| LED batten | ₹100–150 | 14 | ₹1,400–2,100 |
+| Bathroom light | ₹150–200 | 3 | ₹450–600 |
+| Exhaust fan | ₹250–400 | 4 | ₹1,000–1,600 |
+| Curtain rod (drill + fit) | ₹200–350 | 6 | ₹1,200–2,100 |
 | Bath accessories + mirror | ₹400–700 per bathroom | 3 | ₹1,200–2,100 |
-| **Total labour** | | | **₹6,500–10,500** |
+| **Total** | | | **₹6,500–10,500** |
 
-**If new wiring points are needed**, add ₹300–500 per point. Check this before buying — a night lamp needs a live socket in each bedroom.
+New wiring point, if needed: **₹300–500 each.**
 
-## 6. Specification notes
+## 13. Spec rules that actually matter
 
-- **Fans:** 1200 mm sweep, copper motor, BEE-rated. BLDC fans save electricity, but the **tenant pays the bill**, so a normal fan is fine and ₹800–1,200 cheaper.
-- **Battens:** 20 W, 4 ft, **neutral white (4000K)** — looks better than cool white (6500K) in a home and photographs well for the listing.
-- **Bathroom lights:** **IP44 minimum** — anything less corrodes in an Indian bathroom.
-- **Exhaust fans:** measure the **cut-out diameter (150 mm / 200 mm)** before ordering. A 6" fan is fine for the 5'0" × 7'6" toilets.
-- **Curtain rods:** 25 mm (1") steel or aluminium, brackets every 3 ft, **6–8" overhang each side** of the window so the curtains can open clear.
-- **Bathroom fittings:** **SS 304**, not SS 202 — 202 spots and rusts in a wet bathroom.
-- **Mirrors:** 5 mm glass, polished edges. Avoid the stick-on type.
+- **Bathroom lights: IP44 minimum.**
+- **Bath accessories: SS 304, never SS 202.**
+- **Fans: 1200 mm sweep, copper motor.** BLDC only if you want quiet, not to save money — the tenant pays.
+- **Battens: 4000K neutral white** for a home; 6500K only if you don't care how the listing photos look.
+- **Exhaust: match the cut-out** — 150 mm toilets, 200 mm kitchen.
+- **Curtain rods: 25 mm (1"), brackets every 3 ft, 6–8" overhang** each side of the window.
 
-## 7. What not to buy online
+## 14. What not to buy online
 
-- Exhaust fans (fit risk)
-- Curtain rods (length risk)
-- Mirrors (breakage)
-- Anything where you need it **today** — returns take a week
+- Exhaust fans — fit risk, and you need the hole measured first
+- Long curtain pipes — length and bracket quality
+- Mirrors — breakage
+- Anything you need **today**
 
-## 8. Order of work
+## 15. Order of work
 
 1. Measure the exhaust cut-outs and every window width.
-2. Order online items (fans, battens, lights, night lamps, branded bath sets) — allow 3–7 days.
-3. Buy exhausts, rods and mirrors locally.
-4. Get the electrician in for a **point check** — what exists, what needs a new point.
-5. Install fans and lights → then exhausts → then curtain rods and bathroom fittings.
-6. Test everything, keep invoices and warranty cards for the tenant file.
-
-## 9. Budget reality check
-
-- **₹36,670** lean, **₹51,800** with better fans and fittings.
-- The single biggest line is the fans (₹13,000) — five of them. Buying 4 instead of 5 saves ₹2,600 but leaves a bedroom without a fan.
-- Do **not** skip the bathroom lights and exhausts. They are the cheapest items and the ones tenants notice first.
+2. Order online: fans, battens, bath lights, night lamps, Essco/Jaquar accessories. Allow 3–7 days.
+3. Buy locally: exhausts, long curtain pipes, mirrors.
+4. Electrician does a **point check** — what exists, what needs a new point.
+5. Install fans and lights → exhausts → curtain rods → bathroom fittings.
+6. Keep invoices and warranty cards in the tenant file.
