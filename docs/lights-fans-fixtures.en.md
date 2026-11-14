@@ -27,26 +27,32 @@ So ratings only mean something with two caveats:
 1. **Sample size.** A 4.1 from **20 ratings** is noise — one angry buyer moves it 0.2. A 3.9 from **30,000** is a fact. Ignore anything under about 500 ratings.
 2. **Marketplace pooling.** Amazon and Flipkart merge colour and sub-variant SKUs into one rating pool. That is why the Havells REO shows **3.8 (585)** on one Amazon page and **4.2 (4,842)** on Flipkart — same family, different pool.
 
+**Amazon is the leading indicator here.** Amazon India is stingier with stars than Flipkart — a 4.0+ on Amazon with a few thousand ratings is genuinely hard to get, while Flipkart hands out 4.2s more freely. So the picks below are ranked on **Amazon rating × Amazon volume**, with Flipkart shown only as a second opinion for Flipkart-exclusive listings (starred as *pooled*).
+
 Read the tables as: rating × number of ratings × warranty. Where rating and warranty disagree, warranty wins for a fan you intend to keep.
 
 ## Should you buy better fans? Yes — and here is the maths
 
-Fans outlive tenancies. Over 10 years, ₹900 more per fan is **~₹90 a year**. That is cheap for a better motor, a longer warranty, and a lower bill if you ever move back in.
+Fans outlive tenancies. Over 10 years, ₹649 more per fan is **~₹65 a year**. That is cheap for a better motor, a longer warranty, and a lower bill if you ever move back in.
 
 "Better" means four things, not a fancier look:
 
 1. **Warranty length.** Crompton Ariya Briz carries only **1 year** — dropped for that reason alone. Havells gives 2 (door-step on the REO), Atomberg 3.
 2. **BLDC motor.** 33–35 W against 50 W. If you occupy later, roughly **₹400 a year per fan** at ₹8/unit.
-3. **No remote.** Remotes vanish with tenants. Switch or regulator operation is better for a rental.
-4. **Service network.** Havells and Crompton have the deepest Ahmedabad coverage. Atomberg is thinner but workable.
+3. **Proven reliability, not a spec sheet.** Ratings with volume, and a brand with spare parts in the city.
+4. **A remote you control.** A remote is fine if you keep a spare; it is not fine if losing it strands the fan.
 
-On ratings specifically: the **Havells REO BLDC** is 4.2 from 4,842 on Flipkart and 3.8 from 585 on Amazon, and the **Atomberg Erica Nuvo** is 4.2 from 5,172 on Flipkart with a 3-year warranty and no remote. Those two are the only picks here with both a good rating and a big enough sample to trust. The REO is ₹1,449 cheaper per fan.
+Havells and Crompton have the deepest service coverage in Ahmedabad; Atomberg is thinner. That is the single risk you accept when you buy the better-rated fan.
+
+On ratings specifically, the strongest Amazon evidence in the whole 1200 mm market is the **atomberg Ikano Stylique — 4.1 from 9,487 ratings**. Nothing from Havells or Crompton comes close on volume: the REO BLDC is 3.8 from 585, and the Crompton Energion Caelum manages 2.9, which shows the ratings do discriminate.
+
+That matters for your second point: if you might live in this flat yourself, buy the fan you would want to own. The Ikano is ₹3,499 with a 3-year warranty; five of them cost **₹3,245 more** than the REO. If you stay, that is the fan you would have bought anyway.
 
 ## Recommended for a rented flat — buy exactly this
 
 | Item | Exact product | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fan | **Havells REO BLDC 1200 mm, 5-star, 33 W, white** | 5 | 2,850 | 14,250 |
+| Ceiling fan | **atomberg Ikano Stylique 1200 mm, 5-star, 35 W** | 5 | 3,499 | 17,495 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
 | Tube light | **Philips Slimline Ultra 20 W, 4 ft** (4000K if in stock) | 14 | 175 | 2,450 |
 | Bathroom light | **Philips 12 W IP44 round** | 3 | 550 | 1,650 |
@@ -56,16 +62,16 @@ On ratings specifically: the **Havells REO BLDC** is 4.2 from 4,842 on Flipkart 
 | Curtain rods | **Local SS 1" pipe**, cut and fitted | 6 | 1,000 | 6,000 |
 | Bath accessories | **Local SS 304 5-piece set** | 3 | 1,200 | 3,600 |
 | Mirrors | **Local 18" × 24", 5 mm** | 3 | 800 | 2,400 |
-| | **Material** | | | **38,087** |
+| | **Material** | | | **41,332** |
 | | Installation | | | 8,300 |
-| | **Fixtures subtotal** | | | **46,387** |
+| | **Fixtures subtotal** | | | **49,632** |
 | Geyser | **AO Smith VAS Plus 15 L, 5-star** | 3 | 7,299 | 21,897 |
 | | Geyser fitting (pipes, tap, 15 A point) | 3 | 700 | 2,100 |
 | | **Geyser subtotal** | | | **23,997** |
 | Pigeon net | **Balcony, 1.5 mm UV nylon, installed** | ~80 sq ft | — | 3,000 |
-| | **ALL THREE HEADS** | | | **1,57,219** |
+| | **ALL THREE HEADS** | | | **1,60,464** |
 
-With furniture: **₹1,57,219** all-in (furniture ₹83,835 + fixtures ₹46,387 + geysers ₹23,997 + net ₹3,000).
+With furniture: **₹1,60,464** all-in (furniture ₹83,835 + fixtures ₹49,632 + geysers ₹23,997 + net ₹3,000).
 
 **Where I deliberately stayed cheap**
 
@@ -75,7 +81,7 @@ With furniture: **₹1,57,219** all-in (furniture ₹83,835 + fixtures ₹46,387
 **Where I deliberately did not**
 
 - **No 1-year-warranty fans.** Crompton Ariya Briz is out on warranty alone, despite a 3.9 rating.
-- **No remotes.** They go missing, and the fan is then useless to a tenant who cannot find one.
+- **No remote-only fans without a plan.** The Ikano does have a remote — so order one spare with the fans and leave both in the flat. The wall switch still runs the fan; a lost remote is ₹600, not a dead fan.
 - **No ₹8,000 decorative fans.** The Stealth Air is 3.8 from 1,869 ratings — no better reviewed than a ₹2,850 fan, at 2.8× the price.
 
 **Rental-proofing (₹1,000, do it):** keep **2 spare battens and 1 spare fan** in the flat. When something fails it is swapped the same day instead of waiting on a warranty claim you chase from another city.
@@ -102,27 +108,36 @@ With furniture: **₹1,57,219** all-in (furniture ₹83,835 + fixtures ₹46,387
 
 | Model | Amazon ★ (n) | Flipkart ★ | Warranty | Online (₹) | Delivery | Offline (₹) | Lead |
 |---|---|---|---|---|---|---|---|
-| Havells REO Vaayu 1200, 50 W | 3.6 (379) | 4.2 (4,842 family) | 2 yr | 1,649 | 2–3 d | 1,700–1,900 | Same day |
+| **atomberg Ikano Stylique 1200 BLDC** | **4.1 (9,487)** | 4.1 (20) | **3 yr** | **3,499** | 3–5 d | 3,400–3,700 | 2–3 d |
+| atomberg Renesa Prime 1200 BLDC — **no remote** | 4.0 (497) | — | 3 yr | 3,699 | 3–5 d | 3,600–4,000 | 2–3 d |
+| Orient Apex Swift 1200 BLDC | 4.3 (**197**) | — | 2 yr | 2,599 | 2–4 d | 2,600–3,000 | Same day |
+| Orient Aeon BLDC Pro 1200 | 4.1 (905) | — | 2 yr | 4,599 | 3–5 d | 4,500–5,000 | 1–2 d |
+| Crompton Energion Hyperjet 1200 BLDC | 3.9 (360) | — | 2 yr | 2,416 | 2–4 d | 2,500–2,900 | Same day |
+| **Havells REO BLDC 1200, 33 W** | 3.8 (585) | 4.2 (4,842)* | 2 yr door-step | 2,850 | 2–4 d | 2,900–3,200 | 1–2 d |
 | Crompton Hill Briz Neo 1200 | 3.9 (783) | — | 2 yr | 1,951 | 2–3 d | 2,000–2,300 | Same day |
-| Havells Pacer 1200, 2-star, 50 W | 4.1 (**20** — ignore) | — | 2 yr | 1,949 | 2–3 d | 1,900–2,200 | Same day |
 | Crompton Ariya Briz 1200 | 3.9 (724) | 3.3 (3) | **1 yr** ❌ | 2,397 (2,099 FK) | 2–4 d | 2,200–2,500 | Same day |
-| **Havells REO BLDC 1200, 5-star, 33 W** | **3.8 (585)** | **4.2 (4,842)** | **2 yr door-step** | **2,850** | 2–4 d | 2,900–3,200 | 1–2 d |
-| atomberg Ikano Stylique 1200 BLDC | 4.1 (9,487) | 4.1 (20) | 3 yr | 3,499 | 3–5 d | 3,400–3,700 | 2–3 d |
-| atomberg Erica Nuvo 1200 BLDC — **no remote** | 4.0 (282) | **4.2 (5,172)** | 3 yr | 4,299 | 3–5 d | 4,100–4,500 | 2–3 d |
+| Havells Pacer 1200, 50 W | 4.1 (**20** — ignore) | — | 2 yr | 1,949 | 2–3 d | 1,900–2,200 | Same day |
 | Havells Stealth Air BLDC 1200 | 3.8 (1,869) | — | 2 yr | 7,990 | 2–4 d | 7,500–8,300 | Same day |
+| Crompton Energion Caelum 1200 | **2.9 (102)** ❌ | — | 2 yr | 3,613 | — | — | — |
 
-**Buy: Havells REO BLDC × 5 at ₹2,850.**
+\* pooled REO family pool on Flipkart, not the single SKU.
 
-Why it wins on the rating data: it is the only fan here that combines **4.2 from 4,842 ratings** (Flipkart family pool) with **₹2,850**, a 5-star 33 W BLDC motor, **regulator operation — no remote** — and a 2-year door-step warranty. The Amazon SKU shows 3.8 from 585, which is the same fan with a smaller pool; read together, it is a solidly average-to-good product, not a dud.
+**Buy: atomberg Ikano Stylique 1200 × 5 at ₹3,499.**
 
-**The one alternative worth considering:** if you want the best-reviewed fan and don't mind paying, the **Atomberg Erica Nuvo at ₹4,299** carries 4.2 from 5,172 with a **3-year warranty and no remote**. That is the "keep it 15 years" pick — but it is ₹7,245 more for the five, and Atomberg's Ahmedabad service is thinner than Havells'.
+This is the only 1200 mm fan in the market with **4.1 stars from 9,487 Amazon ratings** — an order of magnitude more evidence than anything else here. 5-star BLDC at 35 W, 235 CMM air delivery, 3-year warranty, and it is a fan you would keep if you moved in yourself.
+
+**The remote is the one honest objection.** It goes missing, and a replacement is about ₹600. Two mitigations: the fan still runs from the wall switch, and you order one spare remote at installation time and leave it in the flat.
+
+**If you want no remote at all:** the **atomberg Renesa Prime 1200 Regulator** at ₹3,699 is the same brand, one series up, **4.0 from 497** — better product, thinner evidence. Buy this instead if a switch is non-negotiable; the ₹200 difference is irrelevant.
 
 **Rejected, with reasons**
 
-- Crompton Ariya Briz — 1-year warranty. Rating is fine; the cover is not.
+- Crompton Ariya Briz — 1-year warranty, and 3.3 on Flipkart.
 - Havells Pacer — 4.1 means nothing from 20 ratings.
-- Havells Stealth Air — 3.8 from 1,869, i.e. no better reviewed than a ₹2,850 fan, at ₹7,990.
-- Any 2-star 50 W fan — you pay ₹400/year more in a flat you may return to.
+- Havells Stealth Air — 3.8 from 1,869, no better reviewed than a ₹2,850 fan, at ₹7,990.
+- Orient Apex Swift — 4.3 but only 197 ratings; the number is not yet real.
+- Crompton Energion Caelum — 2.9 from 102. Proof that a bad fan does show up in the ratings.
+- Havells REO BLDC — perfectly good, 2-year door-step warranty, **₹649 cheaper**, but 3.8 from 585. It is the rental-max-value choice, not the keep-it-forever choice.
 
 ## 3. Kitchen fan — 600 mm (1)
 
@@ -144,6 +159,32 @@ A 1200 mm fan in a 12'6" × 7'10" kitchen is overpowered — it blows the hob fl
 One per toilet: **7A (master), 8A, and the common toilet 6**. Ahmedabad winters are mild but a 3 BHK without hot water in all three bathrooms is a letting problem, not a comfort problem.
 
 **Size: 15 L everywhere.** The 10 L AO Smith is ₹6,799 against ₹7,299 for the 15 L — a ₹500 saving for a smaller tank and a second SKU to remember at replacement time. Not worth it.
+
+### Why not Havells Instanio 3 L?
+
+It is a well-rated product — **4.2 from 14,390 Amazon ratings at ₹3,690** — and it is still the wrong geyser for a bathroom. The rating is high because most buyers put a 3 L unit **under a kitchen sink or above a wash basin**, where it is excellent.
+
+A 3 L unit is **instant, not storage**. It heats water as it flows, 3 kW raising the temperature by about **14°C at 3 litres a minute**. Do the arithmetic for an Ahmedabad January, when the inlet is around 18°C:
+
+| How the tenant draws water | Flow | Water they get |
+|---|---|---|
+| Basin tap, hands and face | 1–2 L/min | 32–46°C — fine |
+| Shower, turned down | 2 L/min | ~39°C — acceptable |
+| Bucket bath, tap fully open | 5 L/min | ~27°C — cold |
+| Filling a 15 L bucket | 5 L/min | 3 minutes of waiting |
+
+In practice people open the tap. The shower goes lukewarm, the bucket never fills warm, and in the second winter you are buying a storage geyser anyway — having spent ₹3,690 three times over.
+
+**If you want to save money, save it on capacity, not on the class of product:** a 10 L storage geyser at ₹5,799–6,799 is a real bath geyser. A 3 L instant is a basin heater.
+
+**Where a 3 L Instanio does earn its place:** the kitchen sink, and the wash area if you fit a basin there. Neither is in scope here — the kitchen has no hob or sink yet.
+
+| Model | Amazon ★ (n) | Class | Online (₹) | Verdict for a bathroom |
+|---|---|---|---|---|
+| Havells Instanio 3 L | 4.2 (14,390) | Instant | 3,690 | Basin/kitchen only ❌ for a bath |
+| Crompton Arno Neo 3 L | 4.0 (921) | Instant | 2,999 | Same argument |
+| **AO Smith VAS Plus 15 L** | **4.2 (5,674)** | Storage | **7,299** | ✅ |
+| Racold Eterno Pro 15 L | 4.3 (5,515) | Storage | 7,999 | ✅ hard-water specialist |
 
 | Model | Amazon ★ (n) | Tank warranty | Online (₹) | Delivery | Offline (₹) | Lead |
 |---|---|---|---|---|---|---|
@@ -301,7 +342,7 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fans | **Havells REO BLDC 1200** | 5 | 2,850 | 14,250 |
+| Ceiling fans | **atomberg Ikano Stylique 1200** | 5 | 3,499 | 17,495 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
 | LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
 | Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
@@ -311,9 +352,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Curtain rods | Local SS pipe 1" | 6 | 1,000 | 6,000 |
 | Bath accessories | Local SS 304 5-piece | 3 | 1,200 | 3,600 |
 | Mirrors | Local 18" × 24" | 3 | 800 | 2,400 |
-| | **Fixtures material** | | | **38,087** |
+| | **Fixtures material** | | | **41,332** |
 | | Installation | | | 8,300 |
-| | **Fixtures total** | | | **46,387** |
+| | **Fixtures total** | | | **49,632** |
 | Geysers | **AO Smith VAS Plus 15 L** | 3 | 7,299 | 21,897 |
 | | Fitting | 3 | 700 | 2,100 |
 | | **Geyser total** | | | **23,997** |
@@ -323,7 +364,7 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fans | atomberg Erica Nuvo 1200 (no remote) | 5 | 4,299 | 21,495 |
+| Ceiling fans | atomberg Renesa Prime 1200 Regulator (no remote) | 5 | 3,699 | 18,495 |
 | Kitchen fan | Bajaj Maxima 600 mm | 1 | 1,832 | 1,832 |
 | LED battens | Havells Pride Ultra NXT 20 W | 14 | 235 | 3,290 |
 | Bathroom lights | Philips Spray 12 W IP44 | 3 | 700 | 2,100 |
@@ -332,9 +373,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Curtain rods | Local SS pipe, premium brackets | 6 | 1,200 | 7,200 |
 | Bath accessories | Jaquar / Cera | 3 | 2,800 | 8,400 |
 | Mirrors | Local 18" × 24" | 3 | 1,000 | 3,000 |
-| | **Fixtures material** | | | **54,167** |
+| | **Fixtures material** | | | **51,167** |
 | | Installation | | | 9,300 |
-| | **Fixtures total** | | | **63,467** |
+| | **Fixtures total** | | | **60,467** |
 | Geysers | Racold Eterno Pro 15 L (titanium) | 3 | 7,999 | 23,997 |
 | | Fitting | 3 | 700 | 2,100 |
 | | **Geyser total** | | | **26,097** |
@@ -345,12 +386,35 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Head | Value | Recommended | Best |
 |---|---|---|---|
 | Furniture (kitchen + doors) | 83,835 | 83,835 | 83,835 |
-| Fixtures (fans, lights, bath) | 40,559 | 46,387 | 63,467 |
+| Fixtures (fans, lights, bath) | 40,559 | 49,632 | 60,467 |
 | Geysers (3, installed) | 20,997 | 23,997 | 26,097 |
 | Pigeon net | 2,500 | 3,000 | 4,500 |
-| **Total** | **1,47,891** | **1,57,219** | **1,77,899** |
+| **Total** | **1,47,891** | **1,60,464** | **1,74,899** |
 
-The ₹1,00,000 furniture budget was for the kitchen and doors only. Everything on this page is the second and third heads — expect roughly **₹1.5 lakh all-in** for a flat that is genuinely ready to let.
+The ₹1,00,000 furniture budget was for the kitchen and doors only. Everything on this page is the second and third heads — expect roughly **₹1.6 lakh all-in** for a flat that is genuinely ready to let.
+
+## 15a. Buy best now, or buy cheap and upgrade later?
+
+The test is not "is it nice?" but **"would I rip this out when I move in?"** Anything you would keep, buy properly now. Anything you would happily keep forever at the cheap spec, buy cheap.
+
+| Item | Keep if you move in? | Buy now | Why |
+|---|---|---|---|
+| **Ceiling fans** | **Yes** | **Best** | Expensive to redo (ceiling hooks, wiring), 10+ year life, visible in photos, and a tenant complaint means a callout |
+| **Geysers** | **Yes** | **Best** | Plumbed in, 7-year asset, hard water punishes cheap tanks, and winter complaints are the loudest |
+| **Pigeon net** | Yes | **Best** | Fitted to the wall, lasts years, and an un-netted balcony is an instant complaint |
+| LED battens | Yes, as-is | Cheap | ₹175 Philips is what you would fit anyway. A "better" batten is ₹250 and a 10-minute swap |
+| Bathroom lights | Yes, as-is | Cheap | IP44 Philips is the correct spec at any budget |
+| Night lamps | Yes, as-is | Cheap | ₹135 commodity |
+| Exhaust fans | Yes, as-is | Mid | Crompton Brisk Air ₹1,350 already has auto shutters; premium adds nothing but ₹250 |
+| Curtain rods | Yes, as-is | Cheap | Local SS pipe is permanent. Nobody upgrades a curtain rod |
+| Bath accessories | **Yes, as-is** | Cheap | SS 304 local is what you would fit if you lived there. Jaquar buys a logo, not a better shower |
+| Mirrors | Yes, as-is | Cheap | 5 mm polished edge is the whole spec |
+| Modular kitchen | Yes | **Already best** | IS 710 ply, 1 mm laminate, 2 mm PVC edge, Ebco — this is the keep-forever spec you already negotiated |
+| Main doors | Yes | **Already best** | Solid core, ₹5,000 laminate |
+
+**So: three things get the "best" treatment — fans, geysers, net. Everything else is commodity, and buying it cheap now costs you nothing if you later move in, because none of it is what you would change.**
+
+What you *would* actually add on moving in is not on this list at all: cove lighting, a sofa, beds, appliances, and Jaquar-level bathroom fittings. Those stay deferred, and none of them require redoing the work above.
 
 ## 16. Installation — the part you need a person for
 
@@ -370,7 +434,7 @@ New wiring point, if needed: **₹300–500 each.** A 15 A geyser point with MCB
 
 ## 17. Spec rules that actually matter
 
-- **Fans: 2-year warranty minimum, BLDC if the gap is under ₹1,000, no remote.**
+- **Fans: 3-year warranty, BLDC, and a 4.0+ Amazon rating from at least 500 ratings.** A remote is acceptable if you keep a spare one in the flat — the wall switch still works.
 - **Check the rating *and* the count.** 4.1 from 20 ratings is noise; 3.9 from 30,000 is a fact.
 - **Geysers: 15 L, 5-star, glass-lined tank with a 7-year tank warranty.** Hard water is normal in Gota.
 - **Geyser points: 15 A with MCB**, never a lighting point.
