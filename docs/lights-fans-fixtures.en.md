@@ -23,6 +23,7 @@ One pick per line, chosen for a flat that will be let for 2–10 years, not for 
 | Item | Exact product | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
 | Ceiling fan | **Crompton Ariya Briz 1200 mm, white** | 5 | 2,500 | 12,500 |
+| Kitchen fan | **Crompton 600 mm ceiling fan** (small) | 1 | 1,700 | 1,700 |
 | Tube light | **Philips Slimline Ultra 20 W, 4 ft** (4000K if in stock) | 14 | 175 | 2,450 |
 | Bathroom light | **Philips 12 W IP44 round** | 3 | 550 | 1,650 |
 | Night lamp | **Philips SereneShine 0.5 W** | 3 | 135 | 405 |
@@ -31,11 +32,11 @@ One pick per line, chosen for a flat that will be let for 2–10 years, not for 
 | Curtain rods | **Local SS 1" pipe**, cut and fitted | 6 | 1,000 | 6,000 |
 | Bath accessories | **Local SS 304 5-piece set** | 3 | 1,200 | 3,600 |
 | Mirrors | **Local 18" × 24", 5 mm** | 3 | 800 | 2,400 |
-| | **Material** | | | **34,505** |
-| | Installation | | | 8,000 |
-| | **TOTAL** | | | **42,505** |
+| | **Material** | | | **36,205** |
+| | Installation | | | 8,300 |
+| | **TOTAL** | | | **44,505** |
 
-With furniture: **₹1,26,340**.
+With furniture: **₹1,28,340**.
 
 **Why these, and not the cheaper option**
 
@@ -58,7 +59,7 @@ With furniture: **₹1,26,340**.
 | Personal foyer | — | 1 | — | — |
 | Living room | 1 | 2 | — | curtain rod |
 | Dining | 1 | 1 | — | curtain rod |
-| Kitchen | — | 2 | 1 × 200 mm | — |
+| Kitchen | 1 (600 mm) | 2 | 1 × 200 mm | — |
 | Store | — | 1 | — | — |
 | Wash | — | 1 | — | — |
 | Passage | — | 2 | — | — |
@@ -67,7 +68,7 @@ With furniture: **₹1,26,340**.
 | Bedroom 8 | 1 | 1 | — | night lamp, curtain rod |
 | Balcony | — | 1 | — | curtain rod |
 | Toilet 7A / 8A / 6 | — | 3 | 3 × 150 mm | accessories, mirror |
-| **Total** | **5** | **14 + 3** | **4** | **6 rods, 3 bath sets, 3 mirrors** |
+| **Total** | **5 + 1** | **14 + 3** | **4** | **6 rods, 3 bath sets, 3 mirrors** |
 
 ## 2. Ceiling fans (5)
 
@@ -77,8 +78,13 @@ With furniture: **₹1,26,340**.
 | **Crompton Ariya Briz 1200 mm** | ₹2,397 (Amazon) – ₹2,699 (Flipkart) | 1–3 days | ₹2,400–2,700 | Same day |
 | Atomberg Renesa Prime 1200 mm BLDC | ₹2,999 (Flipkart) – ₹3,599 (Atomberg.com) | 3–5 days | ₹3,200–3,800 | 2–3 days (order) |
 | Havells Stealth Air BLDC 1200 mm | ₹7,990 (Amazon) | 2–4 days | ₹7,500–8,300 | Same day |
+| **Crompton 600 mm ceiling fan** — kitchen | ~₹1,500–1,900 (Amazon) | 2–4 days | ₹1,400–1,800 | Same day |
 
-**Buy:** Crompton Ariya Briz, 5 nos. **Best move: walk into a Crompton dealer with the Amazon price on your phone.** On five fans they will usually match it, and you get them the same day with a local warranty contact.
+**Buy:** Crompton Ariya Briz 1200 mm × 5, plus **one 600 mm fan for the kitchen**. A 1200 mm fan in a 12'6" × 7'10" kitchen is overpowered — it blows the hob flame and stirs up steam. The 600 mm moves enough air without the drama.
+
+Mount the kitchen fan on the side **away from the hob**, and wipe the blades monthly. Grease is what kills kitchen fans, not motor hours.
+
+**Buying move:** walk into a Crompton dealer with the Amazon price on your phone. On six fans they will usually match it, and you get them the same day with a local warranty contact.
 
 ## 3. LED battens — tube lights (14)
 
@@ -170,6 +176,7 @@ Buy local. The ₹200 you save online is not worth a replacement cycle.
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
 | Ceiling fans | Havells Pacer ES 1200 mm | 5 | 2,200 | 11,000 |
+| Kitchen fan | Havells 600 mm | 1 | 1,500 | 1,500 |
 | LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
 | Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
 | Night lamps | Philips SereneShine 0.5 W | 3 | 135 | 405 |
@@ -178,15 +185,16 @@ Buy local. The ₹200 you save online is not worth a replacement cycle.
 | Curtain rods | Local SS pipe 1" | 6 | 900 | 5,400 |
 | Bath accessories | Local SS 304 5-piece | 3 | 1,200 | 3,600 |
 | Mirrors | Local 18" × 24" | 3 | 800 | 2,400 |
-| | **Material** | | | **32,255** |
-| | Installation | | | 8,000 |
-| | **TOTAL** | | | **40,255** |
+| | **Material** | | | **33,755** |
+| | Installation | | | 8,300 |
+| | **TOTAL** | | | **42,055** |
 
 ### Tier 2 — Recommended
 
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
 | Ceiling fans | **Crompton Ariya Briz 1200 mm** | 5 | 2,500 | 12,500 |
+| Kitchen fan | **Crompton 600 mm** | 1 | 1,700 | 1,700 |
 | LED battens | **Havells Pride Ultra NXT 20 W** | 14 | 235 | 3,290 |
 | Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
 | Night lamps | Philips SereneShine 0.5 W | 3 | 135 | 405 |
@@ -195,15 +203,16 @@ Buy local. The ₹200 you save online is not worth a replacement cycle.
 | Curtain rods | Local SS pipe 1" | 6 | 1,100 | 6,600 |
 | Bath accessories | Essco by Jaquar | 3 | 2,200 | 6,600 |
 | Mirrors | Local 18" × 24" | 3 | 900 | 2,700 |
-| | **Material** | | | **39,795** |
-| | Installation | | | 8,500 |
-| | **TOTAL** | | | **48,295** |
+| | **Material** | | | **41,495** |
+| | Installation | | | 8,800 |
+| | **TOTAL** | | | **50,295** |
 
 ### Tier 3 — Best
 
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
 | Ceiling fans | Atomberg Renesa Prime BLDC | 5 | 3,300 | 16,500 |
+| Kitchen fan | Atomberg 600 mm | 1 | 2,000 | 2,000 |
 | LED battens | Philips / Havells 20 W | 14 | 250 | 3,500 |
 | Bathroom lights | Philips Spray 12 W IP44 | 3 | 750 | 2,250 |
 | Night lamps | Philips SereneShine | 3 | 150 | 450 |
@@ -211,23 +220,23 @@ Buy local. The ₹200 you save online is not worth a replacement cycle.
 | Curtain rods | Local SS pipe, premium brackets | 6 | 1,300 | 7,800 |
 | Bath accessories | Jaquar / Cera | 3 | 3,200 | 9,600 |
 | Mirrors | Local 18" × 24" | 3 | 1,100 | 3,300 |
-| | **Material** | | | **50,000** |
-| | Installation | | | 9,000 |
-| | **TOTAL** | | | **59,000** |
+| | **Material** | | | **52,000** |
+| | Installation | | | 9,300 |
+| | **TOTAL** | | | **61,300** |
 
 ## 12. Where the whole fit-out lands
 
 | Head | Value | Recommended | Best |
 |---|---|---|---|
 | Furniture (kitchen + doors) | 83,835 | 83,835 | 83,835 |
-| Fixtures | 40,255 | 48,295 | 59,000 |
-| **Total** | **1,24,090** | **1,32,130** | **1,42,835** |
+| Fixtures | 42,055 | 50,295 | 61,300 |
+| **Total** | **1,25,890** | **1,34,130** | **1,45,135** |
 
 ## 13. Installation — the only part you need a person for
 
 | Work | Rate | Qty | Approx |
 |---|---|---|---|
-| Ceiling fan | ₹250–400 | 5 | ₹1,250–2,000 |
+| Ceiling fan (incl. 1 small kitchen fan) | ₹250–400 | 6 | ₹1,500–2,400 |
 | LED batten | ₹100–150 | 14 | ₹1,400–2,100 |
 | Bathroom light | ₹150–200 | 3 | ₹450–600 |
 | Exhaust fan | ₹250–400 | 4 | ₹1,000–1,600 |
