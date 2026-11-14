@@ -65,13 +65,13 @@ That matters for your second point: if you might live in this flat yourself, buy
 | | **Material** | | | **41,332** |
 | | Installation | | | 8,300 |
 | | **Fixtures subtotal** | | | **49,632** |
-| Geyser | **AO Smith VAS Plus 15 L, 5-star** | 3 | 7,299 | 21,897 |
-| | Geyser fitting (pipes, tap, 15 A point) | 3 | 700 | 2,100 |
-| | **Geyser subtotal** | | | **23,997** |
+| Geyser | **Havells Instanio 3 L instant, 3 kW** | 3 | 3,690 | 11,070 |
+| | Geyser fitting (plug top, pipes, tap, 15 A point) | 3 | 700 | 2,100 |
+| | **Geyser subtotal** | | | **13,170** |
 | Pigeon net | **Balcony, 1.5 mm UV nylon, installed** | ~80 sq ft | — | 3,000 |
-| | **ALL THREE HEADS** | | | **1,60,464** |
+| | **ALL THREE HEADS** | | | **1,49,637** |
 
-With furniture: **₹1,60,464** all-in (furniture ₹83,835 + fixtures ₹49,632 + geysers ₹23,997 + net ₹3,000).
+With furniture: **₹1,49,637** all-in (furniture ₹83,835 + fixtures ₹49,632 + geysers ₹13,170 + net ₹3,000).
 
 **Where I deliberately stayed cheap**
 
@@ -158,53 +158,38 @@ A 1200 mm fan in a 12'6" × 7'10" kitchen is overpowered — it blows the hob fl
 
 One per toilet: **7A (master), 8A, and the common toilet 6**. Ahmedabad winters are mild but a 3 BHK without hot water in all three bathrooms is a letting problem, not a comfort problem.
 
-**Size: 15 L everywhere.** The 10 L AO Smith is ₹6,799 against ₹7,299 for the 15 L — a ₹500 saving for a smaller tank and a second SKU to remember at replacement time. Not worth it.
+**Size: 3 L instant, as decided.** You have used these as a tenant and they do the job, so the choice is settled — the numbers below are just picking the best 3 L unit.
 
-### Why not Havells Instanio 3 L?
+| Model | Amazon ★ (n) | Tank / element warranty | Online (₹) | Offline (₹) | Lead |
+|---|---|---|---|---|---|
+| Havells Lyft 3 L, 3 kW | 4.0 (637) | check card | 2,799 | 2,800–3,100 | Same day |
+| Bajaj Prohot 3 L, 3 kW | 4.1 (134) | check card | 2,899 | 2,900–3,200 | Same day |
+| Crompton Arno Neo 3 L, 3 kW | 4.0 (921) | check card | 2,999 | 3,000–3,300 | Same day |
+| Bajaj Splendora 3 L, 3 kW | 4.0 (7,726) | check card | 3,049 | 3,050–3,400 | Same day |
+| Havells Carlo 3 L, 3 kW | **4.2 (2,742)** | SS 304 L tank | 3,079 | 3,100–3,400 | Same day |
+| **Havells Instanio 3 L, 3 kW** | **4.2 (14,390)** | **5 yr tank / 2 yr element / 2 yr product** | **3,690** | 3,700–3,900 | Same day |
+| Havells Instanio Prime 3 L | — | 7 yr tank / 3 yr element | 4,290 (Havells.com) | 4,300–4,600 | 1–2 d |
 
-It is a well-rated product — **4.2 from 14,390 Amazon ratings at ₹3,690** — and it is still the wrong geyser for a bathroom. The rating is high because most buyers put a 3 L unit **under a kitchen sink or above a wash basin**, where it is excellent.
+**Buy: Havells Instanio 3 L at ₹3,690.** It is the best-evidenced 3 L unit on the market by a wide margin — **4.2 from 14,390 Amazon ratings** and 4.2 from 10,724 on Flipkart — and the spec is right for Gota's hard water:
 
-A 3 L unit is **instant, not storage**. It heats water as it flows, 3 kW raising the temperature by about **14°C at 3 litres a minute**. Do the arithmetic for an Ahmedabad January, when the inlet is around 18°C:
+- **SS 304 L inner tank**, 5-year tank warranty
+- 3 kW copper element, 2-year warranty (the part that fails first in hard water — keep the bill)
+- 6.5 bar (0.65 MPa) pressure rating, so it works on a loft tank or a pump
+- ISI marked, ABS rust- and shock-proof body, colour-changing LED that shows when water is hot
 
-| How the tenant draws water | Flow | Water they get |
-|---|---|---|
-| Basin tap, hands and face | 1–2 L/min | 32–46°C — fine |
-| Shower, turned down | 2 L/min | ~39°C — acceptable |
-| Bucket bath, tap fully open | 5 L/min | ~27°C — cold |
-| Filling a 15 L bucket | 5 L/min | 3 minutes of waiting |
+**Value alternative:** Havells Carlo 3 L at ₹3,079 — same 4.2 rating, 2,742 ratings, SS 304 L tank. Saves ₹611 a unit, ₹1,833 for three. If you want to trim, trim here, not on the brand.
 
-In practice people open the tap. The shower goes lukewarm, the bucket never fills warm, and in the second winter you are buying a storage geyser anyway — having spent ₹3,690 three times over.
+**Best:** Havells Instanio Prime 3 L at ₹4,290 direct — 7-year tank, 3-year element, 0.8 MPa, and **two flexible pipes included**, which offsets most of the ₹600 difference at fitting time.
 
-**If you want to save money, save it on capacity, not on the class of product:** a 10 L storage geyser at ₹5,799–6,799 is a real bath geyser. A 3 L instant is a basin heater.
+**Installation notes that actually matter for an instant geyser**
 
-**Where a 3 L Instanio does earn its place:** the kitchen sink, and the wash area if you fit a basin there. Neither is in scope here — the kitchen has no hob or sink yet.
+- **Mount it close to the shower or basin.** Every extra metre of pipe is hot water lost and pressure dropped — this is the difference between "okay" and "useless" with a 3 L unit.
+- **One unit per bathroom.** Never tee one instant geyser to two bathrooms; it cannot keep up.
+- **15 A point with MCB, and a 15 A plug top.** The unit ships with a cord and **no plug top** — the electrician supplies the plug top and socket.
+- **Don't open the tap full.** A 3 kW element warms water at roughly 2–3 L/min. Fine for a half-open tap and a mug; useless at full flow. Worth telling the tenant once.
+- **Hard water is the element killer.** Every 3 L complaint on Amazon is a burnt coil, not a tank. Keep the invoice, and consider the ₹299 two-year extended warranty at checkout — that covers the part the standard warranty expires on.
 
-| Model | Amazon ★ (n) | Class | Online (₹) | Verdict for a bathroom |
-|---|---|---|---|---|
-| Havells Instanio 3 L | 4.2 (14,390) | Instant | 3,690 | Basin/kitchen only ❌ for a bath |
-| Crompton Arno Neo 3 L | 4.0 (921) | Instant | 2,999 | Same argument |
-| **AO Smith VAS Plus 15 L** | **4.2 (5,674)** | Storage | **7,299** | ✅ |
-| Racold Eterno Pro 15 L | 4.3 (5,515) | Storage | 7,999 | ✅ hard-water specialist |
-
-| Model | Amazon ★ (n) | Tank warranty | Online (₹) | Delivery | Offline (₹) | Lead |
-|---|---|---|---|---|---|---|
-| Crompton Arno Neo 15 L, 5-star | 3.9 (30,225) | check card (5–7 yr) | 6,299 | 2–4 d | 6,200–6,800 | Same day |
-| Crompton Amica Pro 15 L, 5-star (free install) | 4.0 (2,143) | check card | 7,299 | 2–4 d | 7,000–7,500 | 1–2 d |
-| **AO Smith VAS Plus 15 L, 5-star** | **4.2 (5,674)** | **7 yr tank / 3 yr element / 2 yr product** | **7,299** | 2–5 d | 7,300–7,900 | 1–2 d |
-| Racold Eterno Pro 15 L, 5-star (titanium) | **4.3 (5,515)** | 7 yr class | 7,999 | 2–4 d | 7,800–8,400 | Same day |
-| AO Smith 10 L, 5-star | — | 7 yr tank | 6,799 | 2–4 d | 6,800–7,300 | 1–2 d |
-
-**Buy: AO Smith VAS Plus 15 L at ₹7,299.** 4.2 from 5,674 ratings, a **Blue Diamond glass-lined tank rated 7 years**, and AO Smith's service network is the best of the four in Gujarat. Gota water is hard (TDS typically 500–900), and glass lining plus the anode is what survives it.
-
-**If you want the hard-water specialist:** **Racold Eterno Pro ₹7,999** — 4.3 from 5,515, titanium-coated tank, magnesium anode, rated for hard water. ₹2,100 more for all three; defensible if you keep the flat long.
-
-**Do not buy** an unbranded 15 L at ₹3,999–4,990 with a 2-year tank warranty. A leaking tank at year three costs more than the ₹2,500 you saved, and you will be paying for it from another city.
-
-**Installation reality check**
-
-- Standard installation is free with AO Smith, Racold and Crompton — **but the inlet/outlet connection pipes, the tap and the 15 A point are not**. Budget ₹600–800 per bathroom.
-- Each geyser needs a **15 A socket with a switch and MCB**, not a 6 A lighting point. Get this checked in the electrician's point survey before you buy.
-- Geysers are 8 bar rated, so they work on a loft tank or a pressure pump. Two bathrooms on one wall usually need a 1" branch each — ask the plumber to verify pressure before fitting.
+**Where a storage geyser would have won:** it carries 15 L of pre-heated water, so it survives a full-open tap. You have decided that trade — noted, and it is a real ₹10,800 saving across three bathrooms.
 
 ## 5. Pigeon net (1 balcony) — new
 
@@ -333,9 +318,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | | **Fixtures material** | | | **32,259** |
 | | Installation | | | 8,300 |
 | | **Fixtures total** | | | **40,559** |
-| Geysers | Crompton Arno Neo 15 L | 3 | 6,299 | 18,897 |
+| Geysers | Havells Carlo 3 L instant | 3 | 3,079 | 9,237 |
 | | Fitting | 3 | 700 | 2,100 |
-| | **Geyser total** | | | **20,997** |
+| | **Geyser total** | | | **11,337** |
 | Pigeon net | Balcony only | 1 | 2,500 | 2,500 |
 
 ### Tier 2 — Recommended
@@ -355,9 +340,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | | **Fixtures material** | | | **41,332** |
 | | Installation | | | 8,300 |
 | | **Fixtures total** | | | **49,632** |
-| Geysers | **AO Smith VAS Plus 15 L** | 3 | 7,299 | 21,897 |
+| Geysers | **Havells Instanio 3 L instant** | 3 | 3,690 | 11,070 |
 | | Fitting | 3 | 700 | 2,100 |
-| | **Geyser total** | | | **23,997** |
+| | **Geyser total** | | | **13,170** |
 | Pigeon net | Balcony, 1.5 mm UV nylon | ~80 sq ft | — | 3,000 |
 
 ### Tier 3 — Best
@@ -376,9 +361,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | | **Fixtures material** | | | **51,167** |
 | | Installation | | | 9,300 |
 | | **Fixtures total** | | | **60,467** |
-| Geysers | Racold Eterno Pro 15 L (titanium) | 3 | 7,999 | 23,997 |
+| Geysers | Havells Instanio Prime 3 L (7-yr tank) | 3 | 4,290 | 12,870 |
 | | Fitting | 3 | 700 | 2,100 |
-| | **Geyser total** | | | **26,097** |
+| | **Geyser total** | | | **14,970** |
 | Pigeon net | Balcony + all windows, SS frame | 1 | 4,500 | 4,500 |
 
 ## 15. Where the whole fit-out lands
@@ -387,11 +372,11 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 |---|---|---|---|
 | Furniture (kitchen + doors) | 83,835 | 83,835 | 83,835 |
 | Fixtures (fans, lights, bath) | 40,559 | 49,632 | 60,467 |
-| Geysers (3, installed) | 20,997 | 23,997 | 26,097 |
+| Geysers (3 × 3 L, installed) | 11,337 | 13,170 | 14,970 |
 | Pigeon net | 2,500 | 3,000 | 4,500 |
-| **Total** | **1,47,891** | **1,60,464** | **1,74,899** |
+| **Total** | **1,38,231** | **1,49,637** | **1,63,772** |
 
-The ₹1,00,000 furniture budget was for the kitchen and doors only. Everything on this page is the second and third heads — expect roughly **₹1.6 lakh all-in** for a flat that is genuinely ready to let.
+The ₹1,00,000 furniture budget was for the kitchen and doors only. Everything on this page is the second and third heads — expect roughly **₹1.5 lakh all-in** for a flat that is genuinely ready to let.
 
 ## 15a. Buy best now, or buy cheap and upgrade later?
 
@@ -400,7 +385,7 @@ The test is not "is it nice?" but **"would I rip this out when I move in?"** Any
 | Item | Keep if you move in? | Buy now | Why |
 |---|---|---|---|
 | **Ceiling fans** | **Yes** | **Best** | Expensive to redo (ceiling hooks, wiring), 10+ year life, visible in photos, and a tenant complaint means a callout |
-| **Geysers** | **Yes** | **Best** | Plumbed in, 7-year asset, hard water punishes cheap tanks, and winter complaints are the loudest |
+| **Geysers** | **Yes** | **Best** | Plumbed and wired in, and the element is what fails — so buy the unit with the best warranty and service cover, not the cheapest one |
 | **Pigeon net** | Yes | **Best** | Fitted to the wall, lasts years, and an un-netted balcony is an instant complaint |
 | LED battens | Yes, as-is | Cheap | ₹175 Philips is what you would fit anyway. A "better" batten is ₹250 and a 10-minute swap |
 | Bathroom lights | Yes, as-is | Cheap | IP44 Philips is the correct spec at any budget |
@@ -436,8 +421,8 @@ New wiring point, if needed: **₹300–500 each.** A 15 A geyser point with MCB
 
 - **Fans: 3-year warranty, BLDC, and a 4.0+ Amazon rating from at least 500 ratings.** A remote is acceptable if you keep a spare one in the flat — the wall switch still works.
 - **Check the rating *and* the count.** 4.1 from 20 ratings is noise; 3.9 from 30,000 is a fact.
-- **Geysers: 15 L, 5-star, glass-lined tank with a 7-year tank warranty.** Hard water is normal in Gota.
-- **Geyser points: 15 A with MCB**, never a lighting point.
+- **Geysers: 3 L instant, 3 kW, SS 304 tank.** Havells Instanio is the benchmark — 5-yr tank, 2-yr element.
+- **Geyser points: 15 A with MCB and a 15 A plug top** — the unit ships without one.
 - **Pigeon net: 1.5 mm UV nylon, SS 304 anchors, stitched edges.** Not the ₹8/sq ft market net.
 - **Bathroom lights: IP44 minimum.**
 - **Bath accessories: SS 304, never SS 202.**
