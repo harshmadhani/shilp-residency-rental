@@ -10,7 +10,7 @@ Working documents for fitting out the flat for **long-term furnished rental** (t
 |---|---|
 | `docs/spec-and-quotation.en.md` | Materials explained, what was negotiated, and the suggested quotation (English) |
 | `docs/wardrobe-buying-guide.en.md` | What wardrobe to buy for each bedroom, sized from the unit plan |
-| `docs/lights-fans-fixtures.en.md` | Brand/model shortlist with online vs offline prices, costed buy list and budget |
+| `docs/lights-fans-fixtures.en.md` | Fans, lights, geysers, pigeon net and bathroom fittings — live prices, Amazon/Flipkart ratings, costed buy list |
 | `docs/vendor-confirmation.en.md` | Work confirmation / specification sheet, English reference version |
 | `docs/quotation.hi.md` | Hindi quotation — source of the PDF handed to the contractor |
 | `pdf/quotation.hi.pdf` | **Hindi quotation — the file to give the furniture contractor** |
