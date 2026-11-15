@@ -47,13 +47,14 @@ Havells and Crompton have the deepest service coverage in Ahmedabad; Atomberg is
 
 On ratings, the strongest Amazon evidence in the whole 1200 mm market is the **atomberg Renesa Enzel — 4.1 from 49,952 ratings**. The Ikano (9,488) and REO (585) are far behind, and the Crompton Energion Caelum manages 2.9, which shows the ratings do discriminate.
 
-That matters for your second point: if you might live in this flat yourself, buy the fan you would want to own. The Enzel is ₹3,849 with a 3-year warranty; five of them cost **₹4,995 more** than the REO. If you stay, that is the fan you would have bought anyway.
+That matters for your second point: if you might live in this flat yourself, buy the fan you would want to own. The Enzel is ₹3,849 with a 3-year warranty; the five fans cost **₹5,195 more** than five REOs. If you stay, that is the fan you would have bought anyway.
 
 ## Recommended for a rented flat — buy exactly this
 
 | Item | Exact product | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fan | **atomberg Renesa Enzel 1200 mm, 5-star BLDC, Pebble Grey** | 5 | 3,849 | 19,245 |
+| Ceiling fan — living | **atomberg Renesa Enzel 1400 mm, 5-star BLDC, Gloss White** | 1 | 4,049 | 4,049 |
+| Ceiling fan — dining + 3 bedrooms | **atomberg Renesa Enzel 1200 mm, 5-star BLDC, Gloss White** | 4 | 3,849 | 15,396 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
 | Tube light | **Philips Slimline Ultra 20 W, 4 ft** (4000K if in stock) | 14 | 175 | 2,450 |
 | Bathroom light | **Philips 12 W IP44 round** | 3 | 550 | 1,650 |
@@ -63,16 +64,16 @@ That matters for your second point: if you might live in this flat yourself, buy
 | Curtain rods | **Local SS 1" pipe**, cut and fitted | 6 | 1,000 | 6,000 |
 | Bath accessories | **Local SS 304 5-piece set** | 3 | 1,200 | 3,600 |
 | Mirrors | **Local 18" × 24", 5 mm** | 3 | 800 | 2,400 |
-| | **Material** | | | **43,082** |
+| | **Material** | | | **43,282** |
 | | Installation | | | 8,300 |
-| | **Fixtures subtotal** | | | **51,382** |
+| | **Fixtures subtotal** | | | **51,582** |
 | Geyser | **Havells Instanio 3 L instant, 3 kW** | 3 | 3,690 | 11,070 |
 | | Geyser fitting (plug top, pipes, tap, 15 A point) | 3 | 700 | 2,100 |
 | | **Geyser subtotal** | | | **13,170** |
 | Pigeon net | **Balcony, 1.5 mm UV nylon, installed** | ~80 sq ft | — | 3,000 |
-| | **ALL THREE HEADS** | | | **1,51,387** |
+| | **ALL THREE HEADS** | | | **1,51,587** |
 
-With furniture: **₹1,51,387** all-in (furniture ₹83,835 + fixtures ₹51,382 + geysers ₹13,170 + net ₹3,000).
+With furniture: **₹1,51,587** all-in (furniture ₹83,835 + fixtures ₹51,582 + geysers ₹13,170 + net ₹3,000).
 
 **Where I deliberately stayed cheap**
 
@@ -105,12 +106,13 @@ With furniture: **₹1,51,387** all-in (furniture ₹83,835 + fixtures ₹51,382
 | Toilet 7A / 8A / 6 | — | 3 | 3 × 150 mm | geyser, accessories, mirror |
 | **Total** | **5 + 1** | **14 + 3** | **4** | **6 rods, 3 bath sets, 3 mirrors, 3 geysers, 1 net** |
 
-## 2. Ceiling fans — 1200 mm (5)
+## 2. Ceiling fans (5 — one 1400 mm, four 1200 mm)
 
 | Model | Look | Amazon ★ (n) | Warranty | Online (₹) | Delivery | Offline (₹) |
 |---|---|---|---|---|---|---|
-| **atomberg Renesa Enzel 1200 BLDC** | **Sculpted motor housing, matte Pebble Grey, LED speed dots — the best-looking fan under ₹4,000** | **4.1 (49,952)** | **3 yr** | **3,849** | 3–5 d | 3,800–4,100 |
+| **atomberg Renesa Enzel 1200 BLDC** | **Sculpted motor housing, LED speed dots, 13 finishes incl. Gloss White — the best-looking fan under ₹4,000** | **4.1 (49,952)** | **3 yr** | **3,849** | 3–5 d | 3,800–4,100 |
 | atomberg Renesa Prime Crest 1200 — **no remote** | Clean two-tone white + black motor cap, minimal | 4.0 (499) | 3 yr | 3,699 | 3–5 d | 3,650–3,950 |
+| atomberg Renesa Epoque 1200 BLDC | Near-identical shell to the Enzel, gloss black/white, LED speed dots | 4.1 (4,151) | **2 yr** (blade + remote 1 yr) | 3,599 | 3–5 d | 3,600–3,900 |
 | atomberg Erica Nuvo 1200 BLDC | White with champagne-gold trims and a domed motor — the decorative option | 4.0 (578) | 3 yr | 4,549 | 3–5 d | 4,500–4,900 |
 | Havells Stealth Air Neo 1200 BLDC | Sculpted aerodynamic blades, wood-tone hub — genuinely premium | 3.9 (322) | 2 yr | 9,549 | 2–4 d | 9,000–9,800 |
 | atomberg Ikano Stylique 1200 BLDC | Beige blades with a thin rose-gold ring — reads as budget | 4.1 (9,488) | 3 yr | 3,499 | 3–5 d | 3,400–3,700 |
@@ -121,29 +123,54 @@ With furniture: **₹1,51,387** all-in (furniture ₹83,835 + fixtures ₹51,382
 | Orient Apex Swift 1200 BLDC | Slim profile, white | 4.3 (**197**) | 2 yr | 2,599 | 2–4 d | 2,600–3,000 |
 | Crompton Energion Caelum 1200 | Dark, angular | **2.9 (102)** ❌ | 2 yr | 3,613 | — | — |
 
-**Buy: atomberg Renesa Enzel 1200 × 5 at ₹3,849.**
+**Buy: atomberg Renesa Enzel — 1400 mm in the living room (₹4,049), 1200 mm in the dining and three bedrooms (₹3,849 each), all in Gloss White.**
 
-It fixes exactly what you objected to. The Ikano Stylique is beige blades with a thin rose-gold ring on a cheap-looking hub — it reads as a ₹1,500 fan. The Enzel is a different class of object: a **compact sculpted motor housing, matte Pebble Grey moulding, and a ring of LED speed dots**, with the blades shaped rather than slab-flat. Five of them on white ceilings look deliberate rather than builder-grade.
+It fixes exactly what you objected to. The Ikano Stylique is beige blades with a thin rose-gold ring on a cheap-looking hub — it reads as a ₹1,500 fan. The Enzel is a different class of object: a **compact sculpted motor housing, LED speed dots, and blades shaped rather than slab-flat**. Five of them on white ceilings look deliberate rather than builder-grade.
 
 The Renesa Enzel listing carries **4.1 from 49,952 Amazon ratings** — by far the largest sample of any fan compared here, and five times the Ikano's.
 
-### The three fans that actually matter, on hard numbers
+### Enzel vs Prime vs Epoque — the three same-motor Renesas
 
-| | **Renesa Enzel** | Renesa Prime Crest | Hill Briz Neo |
+atomberg sells three 1200 mm fans on the same 35 W Advance Air+ BLDC motor with the same 235 CMM-class air delivery. They differ in **only three ways**: the finish, the control, and the warranty.
+
+| | **Renesa Enzel** | Renesa Prime | Renesa Epoque |
 |---|---|---|---|
-| Online (₹) | 3,849 | 3,699 | 1,951 |
-| Amazon ★ (n) | **4.1 (49,952)** | 4.0 (499) | 3.9 (784) |
-| Motor | BLDC, 35 W | BLDC, 35 W | induction, 47–53 W |
-| Air delivery | **235 CMM** | **235 CMM** | 215 CMM |
-| Warranty | **3 yr** | **3 yr** | 2 yr |
-| Control | remote + wall switch | **regulator** | **regulator** |
-| Five fans | 19,245 | 18,495 | 9,755 |
+| Online (₹) | 3,849 | 3,699 | **3,599** |
+| Amazon ★ (n) | **4.1 (49,952)** | 4.0 (499) | 4.1 (4,151) |
+| Motor / power | BLDC, 35 W | BLDC, 35 W | BLDC, 35 W |
+| Air delivery | 235 CMM, 370 RPM | 225–235 CMM, 350 RPM | 235 CMM, 370 RPM |
+| **Warranty** | **3 yr** | **3 yr** | **2 yr — and blade + remote only 1 yr** |
+| Control | remote | **regulator, no remote** | remote |
+| Look | matte, compact sculpted can, LED speed dots | plain gloss, traditional motor can, no LED | gloss, rounded shell, LED speed dots |
+| Finishes | **13** (Gloss White, Gloss Black, Pebble Grey, Misty Teal, wood tones) | 7 | **3** (gloss black, gloss white, earth brown) |
+| Five 1200 mm fans | 19,245 | 18,495 | 17,995 |
 
-**Optimal and "best" land on the same platform, ₹150 apart.** The Enzel and the Prime Crest are the same Renesa motor, same 35 W, same 235 CMM, same 3-year warranty — the only two real differences are the look and the control. So there is no trade-off to agonise over: **pay the ₹150 and take the Enzel**, unless you specifically want no remote.
+**Buy the Enzel.** The reasoning is short, because the motor is identical in all three — so the only things that can go wrong later are the ones you cannot retrofit:
 
-**When the Prime Crest is the smarter buy:** if the flat will be let while you are in another city, a lost remote is a phone call and a ₹600 part. The Prime Crest has a **regulator, which cannot be lost, has no battery, and is what a tenant expects**. It looks clean-minimal rather than designed, and it saves ₹750 across five. This is the rental-risk-minimising choice, and it is a legitimate one — not a compromise on quality.
+1. **Warranty.** This is the one hard difference. The Enzel and Prime give **3 years**; the Epoque gives **2, with the blades and remote covered for only the first year**. On five fans, that is a year of cover for ₹250. That is the worst trade on this page.
+2. **Control.** The Prime is the only one with a **regulator** — nothing to lose, no battery, what a tenant expects. That is a real advantage, and it costs ₹150/fan to give up.
+3. **Finish range.** The Enzel offers 13 finishes including **Gloss White and Gloss Black**, so you are never forced into a colour you dislike. The Epoque has three.
 
-**Why not the ₹1,951 Crompton:** it is a genuinely fine fan and ₹9,490 cheaper across five. But it is a 47–53 W induction motor with a 2-year warranty, and it looks like what came with the flat. If the flat may become yours, that is the fan you replace in year four.
+**So the Epoque is dominated:** same motor, same look language, one year less warranty, and only three colours — to save ₹250. If you want gloss black, buy the **Enzel in Gloss Black** at ₹3,849.
+
+**The Prime is the one legitimate alternative.** If you will be letting from another city and want zero remote-related calls, take it: regulator, 3-year warranty, ₹750 cheaper across five. You give up the LED speed indicator and the sculpted housing, and it reads as a plain fan rather than a designed one.
+
+### Which colour
+
+Same price in every finish, so this is purely a taste call:
+
+- **Gloss White — recommended for this flat.** Your ceilings are white, it disappears into them, it shows Ahmedabad dust far less than a matte dark finish, and it will not look dated in year eight. It is also the safest thing to photograph for a listing.
+- **Pebble Grey** if you want the fans to read as a deliberate feature. It is a dark charcoal, so it is a statement on a white ceiling — good, but it is a decision you are making for the tenant.
+
+### The living room wants a bigger fan
+
+Living is **11'10½" × 19'0" (226 sq ft)** — the largest room in the flat, and long. A 1200 mm fan is undersized for it and will leave the far end of the room still.
+
+The **Enzel also comes in 1400 mm at ₹4,049** — 270 CMM against 235, 3-year warranty, same finishes. **Put one 1400 mm in the living room and 1200 mm in the dining and three bedrooms.** That is ₹200 more for the one room that needs it, and it is the only place in the flat where the bigger sweep is worth paying for.
+
+### Why not the ₹1,951 Crompton
+
+It is a genuinely fine fan and ₹9,690 cheaper across five. But it is a 47–53 W induction motor with a 2-year warranty, and it looks like what came with the flat. If the flat may become yours, that is the fan you replace in year four.
 
 **Why not the ₹9,549 Stealth Air Neo:** it is the best-looking fan here — sculpted blades, wood-tone hub, quietest of the lot — but 3.9 from 322 ratings is weaker evidence at two and a half times the price. Five of them is ₹47,745 for a look, not a better fan. That is the one line item on this page that is actually overkill.
 
@@ -151,7 +178,7 @@ The Renesa Enzel listing carries **4.1 from 49,952 Amazon ratings** — by far t
 
 Two different questions, and they have different answers.
 
-**The budget is not.** ₹1,51,387 is about **five months' rent** at ₹31,000. Spread over a 36-month tenancy that is ₹4,205 a month, roughly **14% of the rent** — normal for an Indian rental, not extravagant. The fans are ₹19,245, or 13% of the fit-out and 0.6 months' rent. Furniture, not fans, is 55% of the spend.
+**The budget is not.** ₹1,51,587 is about **five months' rent** at ₹31,000. Spread over a 36-month tenancy that is ₹4,211 a month, roughly **14% of the rent** — normal for an Indian rental, not extravagant. The fans are ₹19,445, or 13% of the fit-out and 0.6 months' rent. Furniture, not fans, is 55% of the spend.
 
 **One part of the spec is overkill:** the **Best tier**. Everything in it — Erica Nuvo at ₹4,549, the ₹4,500 net, Jaquar/Cera bath fittings — buys look, not function. If you want to cut, cut there first; it saves **₹16,635** and costs nothing you would notice as a tenant.
 
@@ -162,15 +189,16 @@ If you did want to trim without touching furniture:
 | Cut | Saves | What you give up |
 |---|---|---|
 | Best tier → Recommended | 16,635 | Nothing — it is optional |
-| Fans → Hill Briz Neo | 9,490 | 3-yr → 2-yr warranty, no BLDC, plainer |
+| Fans → Hill Briz Neo | 9,690 | 3-yr → 2-yr warranty, no BLDC, plainer |
 | Geysers → Havells Carlo | 1,833 | Same 4.2 rating, thinner brand support |
 | Net → ₹2,500 quote | 500 | Thinner net, shorter warranty |
 
-**Verdict:** the fan spec is not overkill. ₹3,849 is the middle of the market for a 1200 mm BLDC fan, and it is the price at which the fan stops being something a tenant notices as cheap. The overkill is anything above roughly ₹4,000 a fan, and the Best tier as a whole.
+**Verdict:** the fan spec is not overkill. ₹3,849 is the middle of the market for a 1200 mm BLDC fan, and it is the price at which the fan stops being something a tenant notices as cheap. The overkill is anything above roughly ₹4,000 *for a 1200 mm fan* — the 1400 mm at ₹4,049 in the living room is the one justified exception, because the room is 19 ft long.
 
 **Rejected, with reasons**
 
 - **Ikano Stylique** — the design objection stands; the Enzel is the same brand, same warranty, ₹350 more.
+- **Renesa Epoque** — same motor and near-identical shell to the Enzel, but **2-year warranty instead of 3**, blades and remote covered for only the first year, and three finishes instead of thirteen — all to save ₹250. If you want gloss black, the Enzel comes in Gloss Black.
 - **Erica Nuvo ₹4,549** — attractive, but the gold trims date faster than a matte finish, and 4.0 from 578 is thin evidence. Keep it only if you want decorative.
 - Crompton Ariya Briz — 1-year warranty, and 3.3 on Flipkart.
 - Havells Pacer — 4.1 means nothing from 20 ratings.
@@ -367,7 +395,7 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fans | **atomberg Renesa Enzel 1200** | 5 | 3,849 | 19,245 |
+| Ceiling fans | **atomberg Renesa Enzel** — 1400 mm living, 1200 mm ×4 | 5 | — | 19,445 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
 | LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
 | Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
@@ -377,9 +405,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Curtain rods | Local SS pipe 1" | 6 | 1,000 | 6,000 |
 | Bath accessories | Local SS 304 5-piece | 3 | 1,200 | 3,600 |
 | Mirrors | Local 18" × 24" | 3 | 800 | 2,400 |
-| | **Fixtures material** | | | **43,082** |
+| | **Fixtures material** | | | **43,282** |
 | | Installation | | | 8,300 |
-| | **Fixtures total** | | | **51,382** |
+| | **Fixtures total** | | | **51,582** |
 | Geysers | **Havells Instanio 3 L instant** | 3 | 3,690 | 11,070 |
 | | Fitting | 3 | 700 | 2,100 |
 | | **Geyser total** | | | **13,170** |
@@ -411,10 +439,10 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Head | Value | Recommended | Best |
 |---|---|---|---|
 | Furniture (kitchen + doors) | 83,835 | 83,835 | 83,835 |
-| Fixtures (fans, lights, bath) | 40,559 | 51,382 | 64,717 |
+| Fixtures (fans, lights, bath) | 40,559 | 51,582 | 64,717 |
 | Geysers (3 × 3 L, installed) | 11,337 | 13,170 | 14,970 |
 | Pigeon net | 2,500 | 3,000 | 4,500 |
-| **Total** | **1,38,231** | **1,51,387** | **1,68,022** |
+| **Total** | **1,38,231** | **1,51,587** | **1,68,022** |
 
 The ₹1,00,000 furniture budget was for the kitchen and doors only. Everything on this page is the second and third heads — expect roughly **₹1.5 lakh all-in** for a flat that is genuinely ready to let.
 
@@ -460,7 +488,7 @@ New wiring point, if needed: **₹300–500 each.** A 15 A geyser point with MCB
 ## 17. Spec rules that actually matter
 
 - **Fans: 3-year warranty, BLDC, and a 4.0+ Amazon rating from at least 500 ratings.** A remote is acceptable if you keep a spare one in the flat — the wall switch still works.
-- **One model, one colour, all five fans.** Mismatched fans are the fastest way to make a 2,360 sq ft flat look like a PG. Matte finishes age better than chrome or gold.
+- **One model, one colour, all five fans** — the single permitted difference is **1400 mm in the living room**, because that room is 19 ft long. Mismatched models look like a PG; mismatched *sizes* in the right place look considered. Gloss White ages better than dark matte in an Ahmedabad flat, because dust shows on charcoal.
 - **Check the rating *and* the count.** 4.1 from 20 ratings is noise; 3.9 from 30,000 is a fact.
 - **Geysers: 3 L instant, 3 kW, SS 304 tank.** Havells Instanio is the benchmark — 5-yr tank, 2-yr element.
 - **Geyser points: 15 A with MCB and a 15 A plug top** — the unit ships without one.
