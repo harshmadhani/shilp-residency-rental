@@ -35,24 +35,25 @@ Read the tables as: rating × number of ratings × warranty. Where rating and wa
 
 Fans outlive tenancies. Over 10 years, ₹649 more per fan is **~₹65 a year**. That is cheap for a better motor, a longer warranty, and a lower bill if you ever move back in.
 
-"Better" means four things, not a fancier look:
+"Better" means five things, not a fancier look:
 
 1. **Warranty length.** Crompton Ariya Briz carries only **1 year** — dropped for that reason alone. Havells gives 2 (door-step on the REO), Atomberg 3.
 2. **BLDC motor.** 33–35 W against 50 W. If you occupy later, roughly **₹400 a year per fan** at ₹8/unit.
 3. **Proven reliability, not a spec sheet.** Ratings with volume, and a brand with spare parts in the city.
 4. **A remote you control.** A remote is fine if you keep a spare; it is not fine if losing it strands the fan.
+5. **A look that does not date.** Matte finishes outlast chrome and gold trims, and five matching fans on a white ceiling photograph better than five different ones.
 
 Havells and Crompton have the deepest service coverage in Ahmedabad; Atomberg is thinner. That is the single risk you accept when you buy the better-rated fan.
 
-On ratings specifically, the strongest Amazon evidence in the whole 1200 mm market is the **atomberg Ikano Stylique — 4.1 from 9,487 ratings**. Nothing from Havells or Crompton comes close on volume: the REO BLDC is 3.8 from 585, and the Crompton Energion Caelum manages 2.9, which shows the ratings do discriminate.
+On ratings, the strongest Amazon evidence in the whole 1200 mm market is the **atomberg Renesa Enzel — 4.1 from 49,952 ratings**. The Ikano (9,488) and REO (585) are far behind, and the Crompton Energion Caelum manages 2.9, which shows the ratings do discriminate.
 
-That matters for your second point: if you might live in this flat yourself, buy the fan you would want to own. The Ikano is ₹3,499 with a 3-year warranty; five of them cost **₹3,245 more** than the REO. If you stay, that is the fan you would have bought anyway.
+That matters for your second point: if you might live in this flat yourself, buy the fan you would want to own. The Enzel is ₹3,849 with a 3-year warranty; five of them cost **₹4,995 more** than the REO. If you stay, that is the fan you would have bought anyway.
 
 ## Recommended for a rented flat — buy exactly this
 
 | Item | Exact product | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fan | **atomberg Ikano Stylique 1200 mm, 5-star, 35 W** | 5 | 3,499 | 17,495 |
+| Ceiling fan | **atomberg Renesa Enzel 1200 mm, 5-star BLDC, Pebble Grey** | 5 | 3,849 | 19,245 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
 | Tube light | **Philips Slimline Ultra 20 W, 4 ft** (4000K if in stock) | 14 | 175 | 2,450 |
 | Bathroom light | **Philips 12 W IP44 round** | 3 | 550 | 1,650 |
@@ -62,16 +63,16 @@ That matters for your second point: if you might live in this flat yourself, buy
 | Curtain rods | **Local SS 1" pipe**, cut and fitted | 6 | 1,000 | 6,000 |
 | Bath accessories | **Local SS 304 5-piece set** | 3 | 1,200 | 3,600 |
 | Mirrors | **Local 18" × 24", 5 mm** | 3 | 800 | 2,400 |
-| | **Material** | | | **41,332** |
+| | **Material** | | | **43,082** |
 | | Installation | | | 8,300 |
-| | **Fixtures subtotal** | | | **49,632** |
+| | **Fixtures subtotal** | | | **51,382** |
 | Geyser | **Havells Instanio 3 L instant, 3 kW** | 3 | 3,690 | 11,070 |
 | | Geyser fitting (plug top, pipes, tap, 15 A point) | 3 | 700 | 2,100 |
 | | **Geyser subtotal** | | | **13,170** |
 | Pigeon net | **Balcony, 1.5 mm UV nylon, installed** | ~80 sq ft | — | 3,000 |
-| | **ALL THREE HEADS** | | | **1,49,637** |
+| | **ALL THREE HEADS** | | | **1,51,387** |
 
-With furniture: **₹1,49,637** all-in (furniture ₹83,835 + fixtures ₹49,632 + geysers ₹13,170 + net ₹3,000).
+With furniture: **₹1,51,387** all-in (furniture ₹83,835 + fixtures ₹51,382 + geysers ₹13,170 + net ₹3,000).
 
 **Where I deliberately stayed cheap**
 
@@ -81,7 +82,7 @@ With furniture: **₹1,49,637** all-in (furniture ₹83,835 + fixtures ₹49,632
 **Where I deliberately did not**
 
 - **No 1-year-warranty fans.** Crompton Ariya Briz is out on warranty alone, despite a 3.9 rating.
-- **No remote-only fans without a plan.** The Ikano does have a remote — so order one spare with the fans and leave both in the flat. The wall switch still runs the fan; a lost remote is ₹600, not a dead fan.
+- **No remote-only fans without a plan.** The Enzel does have a remote — so order one spare with the fans and leave both in the flat. The wall switch still runs the fan; a lost remote is ₹600, not a dead fan.
 - **No ₹8,000 decorative fans.** The Stealth Air is 3.8 from 1,869 ratings — no better reviewed than a ₹2,850 fan, at 2.8× the price.
 
 **Rental-proofing (₹1,000, do it):** keep **2 spare battens and 1 spare fan** in the flat. When something fails it is swapped the same day instead of waiting on a warranty claim you chase from another city.
@@ -106,38 +107,40 @@ With furniture: **₹1,49,637** all-in (furniture ₹83,835 + fixtures ₹49,632
 
 ## 2. Ceiling fans — 1200 mm (5)
 
-| Model | Amazon ★ (n) | Flipkart ★ | Warranty | Online (₹) | Delivery | Offline (₹) | Lead |
-|---|---|---|---|---|---|---|---|
-| **atomberg Ikano Stylique 1200 BLDC** | **4.1 (9,487)** | 4.1 (20) | **3 yr** | **3,499** | 3–5 d | 3,400–3,700 | 2–3 d |
-| atomberg Renesa Prime 1200 BLDC — **no remote** | 4.0 (497) | — | 3 yr | 3,699 | 3–5 d | 3,600–4,000 | 2–3 d |
-| Orient Apex Swift 1200 BLDC | 4.3 (**197**) | — | 2 yr | 2,599 | 2–4 d | 2,600–3,000 | Same day |
-| Orient Aeon BLDC Pro 1200 | 4.1 (905) | — | 2 yr | 4,599 | 3–5 d | 4,500–5,000 | 1–2 d |
-| Crompton Energion Hyperjet 1200 BLDC | 3.9 (360) | — | 2 yr | 2,416 | 2–4 d | 2,500–2,900 | Same day |
-| **Havells REO BLDC 1200, 33 W** | 3.8 (585) | 4.2 (4,842)* | 2 yr door-step | 2,850 | 2–4 d | 2,900–3,200 | 1–2 d |
-| Crompton Hill Briz Neo 1200 | 3.9 (783) | — | 2 yr | 1,951 | 2–3 d | 2,000–2,300 | Same day |
-| Crompton Ariya Briz 1200 | 3.9 (724) | 3.3 (3) | **1 yr** ❌ | 2,397 (2,099 FK) | 2–4 d | 2,200–2,500 | Same day |
-| Havells Pacer 1200, 50 W | 4.1 (**20** — ignore) | — | 2 yr | 1,949 | 2–3 d | 1,900–2,200 | Same day |
-| Havells Stealth Air BLDC 1200 | 3.8 (1,869) | — | 2 yr | 7,990 | 2–4 d | 7,500–8,300 | Same day |
-| Crompton Energion Caelum 1200 | **2.9 (102)** ❌ | — | 2 yr | 3,613 | — | — | — |
+| Model | Look | Amazon ★ (n) | Warranty | Online (₹) | Delivery | Offline (₹) |
+|---|---|---|---|---|---|---|
+| **atomberg Renesa Enzel 1200 BLDC** | **Sculpted motor housing, matte Pebble Grey, LED speed dots — the best-looking fan under ₹4,000** | **4.1 (49,952)** | **3 yr** | **3,849** | 3–5 d | 3,800–4,100 |
+| atomberg Renesa Prime Crest 1200 — **no remote** | Clean two-tone white + black motor cap, minimal | 4.0 (499) | 3 yr | 3,699 | 3–5 d | 3,650–3,950 |
+| atomberg Erica Nuvo 1200 BLDC | White with champagne-gold trims and a domed motor — the decorative option | 4.0 (578) | 3 yr | 4,549 | 3–5 d | 4,500–4,900 |
+| Havells Stealth Air Neo 1200 BLDC | Sculpted aerodynamic blades, wood-tone hub — genuinely premium | 3.9 (322) | 2 yr | 9,549 | 2–4 d | 9,000–9,800 |
+| atomberg Ikano Stylique 1200 BLDC | Beige blades with a thin rose-gold ring — reads as budget | 4.1 (9,488) | 3 yr | 3,499 | 3–5 d | 3,400–3,700 |
+| Crompton Hill Briz Neo 1200 | Plain ivory, disappears against a white ceiling | 3.9 (783) | 2 yr | 1,951 | 2–3 d | 2,000–2,300 |
+| Crompton Ariya Briz 1200 | Plain white | 3.9 (724) | **1 yr** ❌ | 2,397 (2,099 FK) | 2–4 d | 2,200–2,500 |
+| Havells Pacer 1200, 50 W | Plain white | 4.1 (**20** — ignore) | 2 yr | 1,949 | 2–3 d | 1,900–2,200 |
+| Havells REO BLDC 1200, 33 W | Plain white | 3.8 (585) | 2 yr door-step | 2,850 | 2–4 d | 2,900–3,200 |
+| Orient Apex Swift 1200 BLDC | Slim profile, white | 4.3 (**197**) | 2 yr | 2,599 | 2–4 d | 2,600–3,000 |
+| Crompton Energion Caelum 1200 | Dark, angular | **2.9 (102)** ❌ | 2 yr | 3,613 | — | — |
 
-\* pooled REO family pool on Flipkart, not the single SKU.
+**Buy: atomberg Renesa Enzel 1200 × 5 at ₹3,849.**
 
-**Buy: atomberg Ikano Stylique 1200 × 5 at ₹3,499.**
+It fixes exactly what you objected to. The Ikano Stylique is beige blades with a thin rose-gold ring on a cheap-looking hub — it reads as a ₹1,500 fan. The Enzel is a different class of object: a **compact sculpted motor housing, matte Pebble Grey moulding, and a ring of LED speed dots**, with the blades shaped rather than slab-flat. Five of them on white ceilings look deliberate rather than builder-grade.
 
-This is the only 1200 mm fan in the market with **4.1 stars from 9,487 Amazon ratings** — an order of magnitude more evidence than anything else here. 5-star BLDC at 35 W, 235 CMM air delivery, 3-year warranty, and it is a fan you would keep if you moved in yourself.
+It also happens to be the best-evidenced fan in the entire Indian market — **4.1 from 49,952 Amazon ratings**, five times the Ikano's sample. 5-star BLDC, 235 CMM, 3-year warranty, ₹350 more per fan than the Ikano.
 
-**The remote is the one honest objection.** It goes missing, and a replacement is about ₹600. Two mitigations: the fan still runs from the wall switch, and you order one spare remote at installation time and leave it in the flat.
+**The colour trade:** Pebble Grey is a statement. Against an off-white ceiling it looks modern; if you prefer the fans to vanish, the **Prime Crest in white** at ₹3,699 is the quieter choice — and it is **regulator operated, no remote**.
 
-**If you want no remote at all:** the **atomberg Renesa Prime 1200 Regulator** at ₹3,699 is the same brand, one series up, **4.0 from 497** — better product, thinner evidence. Buy this instead if a switch is non-negotiable; the ₹200 difference is irrelevant.
+**If design is the whole point and money is not:** the **Havells Stealth Air Neo at ₹9,549** is the best-looking fan here — sculpted blades, wood-tone hub, and it is the quietest of the lot. But 3.9 from 322 ratings is weaker evidence than the Enzel at a third of the price, so five of them costs ₹47,745 for a look, not a better fan.
 
 **Rejected, with reasons**
 
+- **Ikano Stylique** — the design objection stands; the Enzel is the same brand, same warranty, ₹350 more.
+- **Erica Nuvo ₹4,549** — attractive, but the gold trims date faster than a matte finish, and 4.0 from 578 is thin evidence. Keep it only if you want decorative.
 - Crompton Ariya Briz — 1-year warranty, and 3.3 on Flipkart.
 - Havells Pacer — 4.1 means nothing from 20 ratings.
-- Havells Stealth Air — 3.8 from 1,869, no better reviewed than a ₹2,850 fan, at ₹7,990.
+- Havells Stealth Air (remote, ₹7,990) — 3.8 from 1,869, i.e. no better reviewed than a ₹3,849 fan.
 - Orient Apex Swift — 4.3 but only 197 ratings; the number is not yet real.
 - Crompton Energion Caelum — 2.9 from 102. Proof that a bad fan does show up in the ratings.
-- Havells REO BLDC — perfectly good, 2-year door-step warranty, **₹649 cheaper**, but 3.8 from 585. It is the rental-max-value choice, not the keep-it-forever choice.
+- Havells REO BLDC — genuinely good value at ₹2,850 with a 2-year door-step warranty, but 3.8 from 585 and a plain look. It is the rental-max-value choice, not the keep-it-forever choice.
 
 ## 3. Kitchen fan — 600 mm (1)
 
@@ -327,7 +330,7 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fans | **atomberg Ikano Stylique 1200** | 5 | 3,499 | 17,495 |
+| Ceiling fans | **atomberg Renesa Enzel 1200** | 5 | 3,849 | 19,245 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
 | LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
 | Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
@@ -337,9 +340,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Curtain rods | Local SS pipe 1" | 6 | 1,000 | 6,000 |
 | Bath accessories | Local SS 304 5-piece | 3 | 1,200 | 3,600 |
 | Mirrors | Local 18" × 24" | 3 | 800 | 2,400 |
-| | **Fixtures material** | | | **41,332** |
+| | **Fixtures material** | | | **43,082** |
 | | Installation | | | 8,300 |
-| | **Fixtures total** | | | **49,632** |
+| | **Fixtures total** | | | **51,382** |
 | Geysers | **Havells Instanio 3 L instant** | 3 | 3,690 | 11,070 |
 | | Fitting | 3 | 700 | 2,100 |
 | | **Geyser total** | | | **13,170** |
@@ -349,7 +352,7 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 
 | Item | Brand / model | Qty | Unit (₹) | Total (₹) |
 |---|---|---|---|---|
-| Ceiling fans | atomberg Renesa Prime 1200 Regulator (no remote) | 5 | 3,699 | 18,495 |
+| Ceiling fans | atomberg Erica Nuvo 1200 (decorative) | 5 | 4,549 | 22,745 |
 | Kitchen fan | Bajaj Maxima 600 mm | 1 | 1,832 | 1,832 |
 | LED battens | Havells Pride Ultra NXT 20 W | 14 | 235 | 3,290 |
 | Bathroom lights | Philips Spray 12 W IP44 | 3 | 700 | 2,100 |
@@ -358,9 +361,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Curtain rods | Local SS pipe, premium brackets | 6 | 1,200 | 7,200 |
 | Bath accessories | Jaquar / Cera | 3 | 2,800 | 8,400 |
 | Mirrors | Local 18" × 24" | 3 | 1,000 | 3,000 |
-| | **Fixtures material** | | | **51,167** |
+| | **Fixtures material** | | | **55,417** |
 | | Installation | | | 9,300 |
-| | **Fixtures total** | | | **60,467** |
+| | **Fixtures total** | | | **64,717** |
 | Geysers | Havells Instanio Prime 3 L (7-yr tank) | 3 | 4,290 | 12,870 |
 | | Fitting | 3 | 700 | 2,100 |
 | | **Geyser total** | | | **14,970** |
@@ -371,10 +374,10 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Head | Value | Recommended | Best |
 |---|---|---|---|
 | Furniture (kitchen + doors) | 83,835 | 83,835 | 83,835 |
-| Fixtures (fans, lights, bath) | 40,559 | 49,632 | 60,467 |
+| Fixtures (fans, lights, bath) | 40,559 | 51,382 | 64,717 |
 | Geysers (3 × 3 L, installed) | 11,337 | 13,170 | 14,970 |
 | Pigeon net | 2,500 | 3,000 | 4,500 |
-| **Total** | **1,38,231** | **1,49,637** | **1,63,772** |
+| **Total** | **1,38,231** | **1,51,387** | **1,68,022** |
 
 The ₹1,00,000 furniture budget was for the kitchen and doors only. Everything on this page is the second and third heads — expect roughly **₹1.5 lakh all-in** for a flat that is genuinely ready to let.
 
@@ -420,6 +423,7 @@ New wiring point, if needed: **₹300–500 each.** A 15 A geyser point with MCB
 ## 17. Spec rules that actually matter
 
 - **Fans: 3-year warranty, BLDC, and a 4.0+ Amazon rating from at least 500 ratings.** A remote is acceptable if you keep a spare one in the flat — the wall switch still works.
+- **One model, one colour, all five fans.** Mismatched fans are the fastest way to make a 2,360 sq ft flat look like a PG. Matte finishes age better than chrome or gold.
 - **Check the rating *and* the count.** 4.1 from 20 ratings is noise; 3.9 from 30,000 is a fact.
 - **Geysers: 3 L instant, 3 kW, SS 304 tank.** Havells Instanio is the benchmark — 5-yr tank, 2-yr element.
 - **Geyser points: 15 A with MCB and a 15 A plug top** — the unit ships without one.
