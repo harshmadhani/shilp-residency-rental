@@ -125,11 +125,48 @@ With furniture: **₹1,51,387** all-in (furniture ₹83,835 + fixtures ₹51,382
 
 It fixes exactly what you objected to. The Ikano Stylique is beige blades with a thin rose-gold ring on a cheap-looking hub — it reads as a ₹1,500 fan. The Enzel is a different class of object: a **compact sculpted motor housing, matte Pebble Grey moulding, and a ring of LED speed dots**, with the blades shaped rather than slab-flat. Five of them on white ceilings look deliberate rather than builder-grade.
 
-It also happens to be the best-evidenced fan in the entire Indian market — **4.1 from 49,952 Amazon ratings**, five times the Ikano's sample. 5-star BLDC, 235 CMM, 3-year warranty, ₹350 more per fan than the Ikano.
+The Renesa Enzel listing carries **4.1 from 49,952 Amazon ratings** — by far the largest sample of any fan compared here, and five times the Ikano's.
 
-**The colour trade:** Pebble Grey is a statement. Against an off-white ceiling it looks modern; if you prefer the fans to vanish, the **Prime Crest in white** at ₹3,699 is the quieter choice — and it is **regulator operated, no remote**.
+### The three fans that actually matter, on hard numbers
 
-**If design is the whole point and money is not:** the **Havells Stealth Air Neo at ₹9,549** is the best-looking fan here — sculpted blades, wood-tone hub, and it is the quietest of the lot. But 3.9 from 322 ratings is weaker evidence than the Enzel at a third of the price, so five of them costs ₹47,745 for a look, not a better fan.
+| | **Renesa Enzel** | Renesa Prime Crest | Hill Briz Neo |
+|---|---|---|---|
+| Online (₹) | 3,849 | 3,699 | 1,951 |
+| Amazon ★ (n) | **4.1 (49,952)** | 4.0 (499) | 3.9 (784) |
+| Motor | BLDC, 35 W | BLDC, 35 W | induction, 47–53 W |
+| Air delivery | **235 CMM** | **235 CMM** | 215 CMM |
+| Warranty | **3 yr** | **3 yr** | 2 yr |
+| Control | remote + wall switch | **regulator** | **regulator** |
+| Five fans | 19,245 | 18,495 | 9,755 |
+
+**Optimal and "best" land on the same platform, ₹150 apart.** The Enzel and the Prime Crest are the same Renesa motor, same 35 W, same 235 CMM, same 3-year warranty — the only two real differences are the look and the control. So there is no trade-off to agonise over: **pay the ₹150 and take the Enzel**, unless you specifically want no remote.
+
+**When the Prime Crest is the smarter buy:** if the flat will be let while you are in another city, a lost remote is a phone call and a ₹600 part. The Prime Crest has a **regulator, which cannot be lost, has no battery, and is what a tenant expects**. It looks clean-minimal rather than designed, and it saves ₹750 across five. This is the rental-risk-minimising choice, and it is a legitimate one — not a compromise on quality.
+
+**Why not the ₹1,951 Crompton:** it is a genuinely fine fan and ₹9,490 cheaper across five. But it is a 47–53 W induction motor with a 2-year warranty, and it looks like what came with the flat. If the flat may become yours, that is the fan you replace in year four.
+
+**Why not the ₹9,549 Stealth Air Neo:** it is the best-looking fan here — sculpted blades, wood-tone hub, quietest of the lot — but 3.9 from 322 ratings is weaker evidence at two and a half times the price. Five of them is ₹47,745 for a look, not a better fan. That is the one line item on this page that is actually overkill.
+
+### Is this overkill?
+
+Two different questions, and they have different answers.
+
+**The budget is not.** ₹1,51,387 is about **five months' rent** at ₹31,000. Spread over a 36-month tenancy that is ₹4,205 a month, roughly **14% of the rent** — normal for an Indian rental, not extravagant. The fans are ₹19,245, or 13% of the fit-out and 0.6 months' rent. Furniture, not fans, is 55% of the spend.
+
+**One part of the spec is overkill:** the **Best tier**. Everything in it — Erica Nuvo at ₹4,549, the ₹4,500 net, Jaquar/Cera bath fittings — buys look, not function. If you want to cut, cut there first; it saves **₹16,635** and costs nothing you would notice as a tenant.
+
+**And one honest correction to my own earlier logic.** The BLDC motor saves roughly ₹1,750 a year across five fans at ₹8 a unit. **The tenant pays that bill, not you.** So BLDC is not a return on your money — it is a listing feature ("low electricity bill, 5-star fans") and a quieter motor. Buy the Enzel for the warranty, the look and the noise, not for payback.
+
+If you did want to trim without touching furniture:
+
+| Cut | Saves | What you give up |
+|---|---|---|
+| Best tier → Recommended | 16,635 | Nothing — it is optional |
+| Fans → Hill Briz Neo | 9,490 | 3-yr → 2-yr warranty, no BLDC, plainer |
+| Geysers → Havells Carlo | 1,833 | Same 4.2 rating, thinner brand support |
+| Net → ₹2,500 quote | 500 | Thinner net, shorter warranty |
+
+**Verdict:** the fan spec is not overkill. ₹3,849 is the middle of the market for a 1200 mm BLDC fan, and it is the price at which the fan stops being something a tenant notices as cheap. The overkill is anything above roughly ₹4,000 a fan, and the Best tier as a whole.
 
 **Rejected, with reasons**
 
@@ -387,7 +424,7 @@ The test is not "is it nice?" but **"would I rip this out when I move in?"** Any
 
 | Item | Keep if you move in? | Buy now | Why |
 |---|---|---|---|
-| **Ceiling fans** | **Yes** | **Best** | Expensive to redo (ceiling hooks, wiring), 10+ year life, visible in photos, and a tenant complaint means a callout |
+| **Ceiling fans** | **Yes** | **Recommended** (Renesa Enzel), not Best | Expensive to redo (ceiling hooks, wiring), 10+ year life, visible in photos, and a tenant complaint means a callout — but above ₹4,000 a fan buys decoration, not a better fan |
 | **Geysers** | **Yes** | **Best** | Plumbed and wired in, and the element is what fails — so buy the unit with the best warranty and service cover, not the cheapest one |
 | **Pigeon net** | Yes | **Best** | Fitted to the wall, lasts years, and an un-netted balcony is an instant complaint |
 | LED battens | Yes, as-is | Cheap | ₹175 Philips is what you would fit anyway. A "better" batten is ₹250 and a 10-minute swap |
@@ -400,7 +437,7 @@ The test is not "is it nice?" but **"would I rip this out when I move in?"** Any
 | Modular kitchen | Yes | **Already best** | IS 710 ply, 1 mm laminate, 2 mm PVC edge, Ebco — this is the keep-forever spec you already negotiated |
 | Main doors | Yes | **Already best** | Solid core, ₹5,000 laminate |
 
-**So: three things get the "best" treatment — fans, geysers, net. Everything else is commodity, and buying it cheap now costs you nothing if you later move in, because none of it is what you would change.**
+**So: two things get the outright "best" treatment — geysers and the net. Fans get the best *value* that still passes the keep-it-forever test, which is the Renesa Enzel at ₹3,849; the fan tier above that is decoration. Everything else is commodity, and buying it cheap now costs you nothing if you later move in, because none of it is what you would change.**
 
 What you *would* actually add on moving in is not on this list at all: cove lighting, a sofa, beds, appliances, and Jaquar-level bathroom fittings. Those stay deferred, and none of them require redoing the work above.
 
