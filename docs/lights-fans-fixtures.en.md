@@ -75,6 +75,8 @@ That matters for your second point: if you might live in this flat yourself, buy
 
 With furniture: **₹1,55,586** all-in (furniture ₹83,835 + fixtures ₹55,581 + geysers ₹13,170 + net ₹3,000).
 
+**The fan model is a look, not a spec.** The **atomberg Renesa Prime Remote** in Gloss White is also **₹3,849**, with the same 35 W BLDC motor, the same 3-year warranty and the same universal remote — buy it instead if the family prefers the plainer white body (it is a Flipkart listing). See §2 for the full comparison.
+
 **Where I deliberately stayed cheap**
 
 - Battens, bath lights, night lamps, curtain pipes and SS 304 accessories. Commodity items — a tenant will not notice, and none of them fail early.
@@ -153,7 +155,7 @@ atomberg sells three 1200 mm fans on the same 35 W Advance Air+ BLDC motor with 
 
 **So the Epoque is dominated:** same motor, same look language, one year less warranty, and only three colours — to save ₹250. If you want gloss black, buy the **Enzel in Gloss Black** at ₹3,849.
 
-**The Prime is the one legitimate alternative.** If you will be letting from another city and want zero remote-related calls, take it: regulator, 3-year warranty, ₹750 cheaper across five. You give up the LED speed indicator and the sculpted housing, and it reads as a plain fan rather than a designed one.
+**The Prime is the one legitimate alternative.** If you will be letting from another city and want zero remote-related calls, take it: regulator, 3-year warranty, ₹900 cheaper across six. You give up the LED speed indicator and the sculpted housing, and it reads as a plain fan rather than a designed one.
 
 ### Which colour
 
@@ -164,7 +166,9 @@ Same price in every finish, so this is purely a taste call:
 
 ### Two fans in the living room — yes, and better than one 1400 mm
 
-Living is **11'10½" × 19'0" (226 sq ft)** — the largest room in the flat and a long one. A single 1200 mm fan leaves the far end still. The obvious fix is one 1400 mm fan at ₹4,049, but **two 1200 mm fans is the better answer** for this room, and you already have the points for it.
+Living is **11'10½" × 19'0" (226 sq ft)** — the largest room in the flat and a long one. A single 1200 mm fan leaves the far end still. The obvious fix is one 1400 mm fan at ₹4,049, but **two 1200 mm fans is the better answer** for this room.
+
+**One thing to verify at the point survey:** the plan shows **one** fan point in the living room. Two switch boards on opposite walls is not the same thing as two *ceiling* points — check the hook count above your head. If the second point is missing, it is **₹300–500 plus wire** and your electrician is already on site; the Hindi fitting list asks him to quote exactly that.
 
 **Why two beats one big one:**
 
@@ -176,26 +180,35 @@ Living is **11'10½" × 19'0" (226 sq ft)** — the largest room in the flat and
 **The two rules that decide whether it works:**
 
 1. **Keep the two hooks at least 6 ft apart, ideally 8–9 ft.** In a 19 ft room, put them at roughly 5 ft and 14 ft from one end. Any closer than about 6 ft and the two airstreams collide — you get turbulence, a faint beat in the noise, and a room that feels *worse* than one fan. This is the only real failure mode, and it is a layout question, not a product one.
-2. **Separate switches, and separate regulators.** Two fans on one switch cannot be run singly, which defeats the point in winter. Ask the electrician for two switches and two regulators (or two remotes) at the living-room point.
+2. **Separate switches.** Two fans on one switch cannot be run singly, which defeats the point in winter. Ask the electrician for **two switches at the living-room point** — and because these are remote fans, one remote per fan is included in the box.
 
-**Cost of the sixth fan:** ₹3,849 for the fan plus ₹250–400 to hang it — about **₹4,150**. That is almost exactly what the single 1400 mm fan cost (₹4,049 plus hanging), for materially better cooling in the room guests actually sit in.
+**Cost of the sixth fan:** ₹3,849 for the fan plus about ₹350 to hang it — **₹4,199**, and that hanging is already inside the ₹8,650 installation line. Add ₹300–500 only if a second ceiling point has to be created. That is almost exactly what the single 1400 mm fan cost (₹4,049), for materially better cooling in the room guests actually sit in.
 
-### Prime vs Enzel — and the Flipkart price trap
+### Prime Remote vs Enzel — the family's pick is fine
 
-Your family is not wrong about the Prime. It is the **same 35 W Advance Air+ BLDC motor**, the same 3-year warranty, and it is the only one of the three with a **regulator instead of a remote** — which is genuinely better in a rental, because nothing gets lost and there is no battery.
+Short answer: **there is no technical difference at all.** Same 35 W Advance Air+ BLDC motor, same 3-year warranty, same **atomberg universal IR remote**, same **₹3,849**.
 
-Two things to know before buying it:
+That last point matters more than it looks. atomberg's remotes are **IR, not RF, and they do not pair** — the company's own FAQ says a single universal remote will operate every atomberg fan in the flat. So a replacement is **₹243–500**, not the ₹600 I quoted earlier, and mixing an Enzel in one room with a Prime in another costs you nothing in convenience. My earlier "a remote is a rental risk" objection is much weaker than I made it sound: the worst case is a ₹250 part.
 
-- **The regulator is not in the box.** The Prime ships as "Set of Blades, Mounting Kit, 1 Motor" and is *compatible with* a step regulator — you supply it. A modular step regulator is **₹150–400 each**, so six fans adds **₹900–2,400**. That more than eats the ₹150/fan you save. It only works out if your switch plates already have regulators fitted.
-- **Flipkart is ₹500 dearer.** Prime is **₹4,199 on Flipkart** against **₹3,699 on Amazon** for the same regulator-operated fan. The 4.3 rating your family saw (69,884 on Flipkart) is the **whole Renesa family pool**, not the Prime alone — on Amazon the Prime's own listing is 4.0 from 499.
+What actually differs:
 
-**So:** if you want the Prime's plainer look and the regulator, that is a fine choice — **buy it on Amazon at ₹3,699**, and budget one regulator per fan. If you want it to work out of the box with no extra parts, take the **Enzel at ₹3,849**, which includes the remote.
+| | Renesa Enzel | Renesa Prime Remote |
+|---|---|---|
+| Price | 3,849 | 3,849 |
+| Body | sculpted compact can, LED dot ring | classic white shell, black LED ring |
+| Finishes | 13 | several (Gloss White, wood tones) |
+| Buy it at | Amazon | **Flipkart** — Amazon stocks only the regulator Prime |
+| Evidence | 4.1 (49,952) Amazon | 4.3 (69,884) Flipkart, but that is the **whole Renesa pool**, not this SKU |
+
+**So the choice is a look and a shop, not a product.** If the family likes the Prime's plain white face, buy it — gloss white is the better colour here anyway, because it disappears into a white ceiling and hides dust. If you want the sculpted body and Amazon's easier returns on a ₹23,000 order, buy the Enzel. There is no wrong answer between these two.
+
+**One thing to check before buying:** the listing must say **"Prime Remote"**. The **Prime Regulator Operated (No Remote)** is a different fan — ₹4,199 on Flipkart, it needs a step regulator you supply (₹150–400 each), and the same fan is ₹3,699 on Amazon. Do not pay ₹4,199 for it.
 
 ### Why not the ₹1,951 Crompton
 
-It is a genuinely fine fan and ₹9,690 cheaper across five. But it is a 47–53 W induction motor with a 2-year warranty, and it looks like what came with the flat. If the flat may become yours, that is the fan you replace in year four.
+It is a genuinely fine fan and ₹11,388 cheaper across six. But it is a 47–53 W induction motor with a 2-year warranty, and it looks like what came with the flat. If the flat may become yours, that is the fan you replace in year four.
 
-**Why not the ₹9,549 Stealth Air Neo:** it is the best-looking fan here — sculpted blades, wood-tone hub, quietest of the lot — but 3.9 from 322 ratings is weaker evidence at two and a half times the price. Five of them is ₹47,745 for a look, not a better fan. That is the one line item on this page that is actually overkill.
+**Why not the ₹9,549 Stealth Air Neo:** it is the best-looking fan here — sculpted blades, wood-tone hub, quietest of the lot — but 3.9 from 322 ratings is weaker evidence at two and a half times the price. Six of them is ₹57,294 for a look, not a better fan. That is the one line item on this page that is actually overkill.
 
 ### Is this overkill?
 
@@ -510,7 +523,7 @@ New wiring point, if needed: **₹300–500 each.** A 15 A geyser point with MCB
 
 ## 17. Spec rules that actually matter
 
-- **Fans: 3-year warranty, BLDC, and a 4.0+ Amazon rating from at least 500 ratings.** A remote is acceptable if you keep a spare one in the flat — the wall switch still works.
+- **Fans: 3-year warranty, BLDC, and a 4.0+ Amazon rating from at least 500 ratings.** Remotes are atomberg's universal **IR** type — no pairing, one remote works on every atomberg fan, and a replacement is **₹243–500**. Buy one spare for the flat and the objection mostly disappears.
 - **One model, one colour, all six fans.** Six identical 1200 mm fans means one spare, one model number, one remote type — and even spacing down a 19 ft hall looks deliberate. Gloss White ages better than dark matte in an Ahmedabad flat, because dust shows on charcoal.
 - **Two living-room fan points, on separate switches.** Keep the hooks 8–9 ft apart. Closer than 6 ft and the airstreams collide — noisier and less comfortable than one fan.
 - **Check the rating *and* the count.** 4.1 from 20 ratings is noise; 3.9 from 30,000 is a fact.
