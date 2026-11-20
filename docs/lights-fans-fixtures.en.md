@@ -2,45 +2,74 @@
 
 **Property:** Flat No. ____, C Block (3-Series), Shilp Residency, Gota, SG Highway, Ahmedabad — 3 BHK, 2,360 sq ft
 **Prices and ratings verified live:** 14 November 2026, on Amazon.in, Flipkart, crompton.co.in, atomberg.com and Ahmedabad netting vendors
-**Purchase status updated:** 18 November 2026
+**Purchase status updated:** 20 November 2026
 
-## 0. Status — bought vs pending (18 Nov 2026)
+## 0. Status — bought vs pending (20 Nov 2026)
 
-**Bought so far: 5 ceiling fans.** Everything else on this page is still to buy.
+**Bought so far: 5 ceiling fans, 3 bathroom lights, and the foyer + balcony lamps.** Everything else on this page is still to buy.
 
 | # | Head | Item | Model | Need | Bought | Pending | Unit (₹) | Spent (₹) | Still to spend (₹) |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Fans | **Ceiling fan** | **atomberg Renesa Prime Remote 1200, Gloss White** | 6 | **5** | **1** | 3,849 | **19,245** | 3,849 |
 | 2 | Fans | **Kitchen fan** | **Bajaj Maxima 600 mm** | 1 | 0 | **1** | 1,832 | 0 | 1,832 |
-| 3 | Lights | LED batten | Philips Slimline Ultra 20 W, 4 ft | 14 | 0 | 14 | 175 | 0 | 2,450 |
-| 4 | Lights | Bathroom light | Philips 12 W IP44 | 3 | 0 | 3 | 550 | 0 | 1,650 |
+| 3 | Lights | **LED batten** (living 2, dining 1, kitchen 2, store 1, wash 1, passage 2, bedrooms 3) | Philips Slimline Ultra 20 W, 4 ft | 12 | 0 | **12** | 175 | 0 | 2,100 |
+| 3a | Lights | **Foyer + balcony lamp** | 16 W LED bulb in a big-cup holder | 2 | **2** | 0 | 175 | **350** | 0 |
+| 4 | Lights | **Bathroom light** | Crompton 9 W | 3 | **3** | 0 | 550 | **1,650** | 0 |
 | 5 | Lights | Night lamp | Philips SereneShine | 3 | 0 | 3 | 135 | 0 | 405 |
 | 6 | Exhaust | Toilet exhaust | Crompton Brisk Air 150 mm | 3 | 0 | 3 | 1,350 | 0 | 4,050 |
 | 7 | Exhaust | Kitchen exhaust | Havells Ventil Air DX 200 mm | 1 | 0 | 1 | 1,450 | 0 | 1,450 |
 | 8 | Soft | Curtain rods | Local SS 1" pipe | 6 | 0 | 6 | 1,000 | 0 | 6,000 |
 | 9 | Bath | Bath accessories | Local SS 304 5-piece | 3 | 0 | 3 | 1,200 | 0 | 3,600 |
 | 10 | Bath | Mirror | Local 18" × 24", 5 mm | 3 | 0 | 3 | 800 | 0 | 2,400 |
-| | | **Fixtures material** | | | | | | **19,245** | **27,686** |
+| | | **Fixtures material** | | | | | | **21,245** | **25,686** |
 | 11 | Labour | Installation | Electrician (fan, light, exhaust, rod, bath) | — | 0 | 1 | — | 0 | 8,650 |
 | 12 | Geysers | Geyser | Havells Instanio 3 L instant, 3 kW | 3 | 0 | 3 | 3,690 | 0 | 11,070 |
 | 13 | Geysers | Geyser fitting | Plug top, pipes, tap, 15 A point | 3 | 0 | 3 | 700 | 0 | 2,100 |
 | 14 | Net | Pigeon net | Balcony, 1.5 mm UV nylon, installed | 1 | 0 | 1 | — | 0 | 3,000 |
-| | | **TOTAL** | | | | | | **19,245** | **52,506** |
+| | | **TOTAL** | | | | | | **21,245** | **50,506** |
 
 | | Amount |
 |---|---|
 | Furniture (kitchen + doors — contractor) | 83,835 |
 | Fixtures, geysers and net — all-in | 71,751 |
 | **Whole fit-out** | **1,55,586** |
-| **Already spent** | **19,245** |
-| **Still to spend** | **1,36,341** |
+| **Already spent** | **21,245** |
+| **Still to spend** | **1,34,341** |
+
+**Lights bought, and the prices shown for them:** the 3 bathroom lights and the foyer/balcony lamps are carried at the *budget* price (₹550 each and ₹175 each) because the invoices were not to hand. The Crompton 9 W bath light is normally well under ₹550, so the real spend is probably ₹1,000–1,500 lower — adjust the "already spent" line when you have the bills.
 
 **Which rooms the 5 fans went to:** living room ×2, dining ×1, Bedroom 7 (master) ×1, Bedroom 8 ×1. **The pending ceiling fan is for Bedroom 5** — the small study/guest room, which is the one a tenant is least likely to complain about, so it is the right one to defer.
+
+### What lights are still to buy — 12 battens + 3 night lamps
+
+Fitted already: **3 bathroom lights** (Crompton 9 W), **foyer** and **balcony** (16 W bulbs in big-cup holders). That is 5 of the **17 wired light points** done, and it removes the foyer and balcony from the batten count.
+
+| Room | Light | Qty | Status |
+|---|---|---|---|
+| Living room | 20 W batten, 4 ft | 2 | **to buy** |
+| Dining | 20 W batten | 1 | **to buy** |
+| Kitchen | 20 W batten | 2 | **to buy** |
+| Store | 20 W batten | 1 | **to buy** |
+| Wash | 20 W batten | 1 | **to buy** |
+| Passage | 20 W batten | 2 | **to buy** |
+| Bedroom 5 / 7 / 8 | 20 W batten | 3 | **to buy** |
+| **Battens total** | | **12** | **₹2,100** |
+| Foyer | 16 W bulb + big-cup holder | 1 | **done** |
+| Balcony | 16 W bulb + big-cup holder | 1 | **done** |
+| Toilet 7A / 8A / 6 | Crompton 9 W | 3 | **done** |
+| Bedroom 5 / 7 / 8 | Night lamp (plug-in) | 3 | **to buy — ₹405** |
+
+So the remaining lighting spend is **₹2,505**: 12 battens at ₹175 plus 3 night lamps at ₹135. Order the battens in one lot before the fitting day.
+
+**Two things to check on what was fitted:**
+
+1. **The bathroom lights must be IP-rated.** A 9 W Crompton *bulb* in an ordinary holder is fine only if it sits clear of the shower; if it is a bare bulb holder, replace the holder with an **IP44 batten holder** (₹80–120) rather than the light. Steam, not the bulb, is what kills bathroom fittings.
+2. **Keep the colour temperature consistent.** If the new 16 W bulbs are 6500K cool white, buy the 12 battens in **6500K too**. Mixing 4000K and 6500K across a flat is the one thing that makes new fittings look cheap in photos.
 
 **Order to buy the rest in:**
 
 1. **Kitchen fan (₹1,832)** — the electrician needs it on site, and the 600 mm point is easy to get wrong once the kitchen is done.
-2. **14 LED battens (₹2,450)** — one order, before the fitting day, so the electrician is not waiting.
+2. **12 LED battens (₹2,100)** — one order, before the fitting day, so the electrician is not waiting. Buy 4000K if the new 16 W bulbs are 4000K; 6500K if they are 6500K.
 3. **Exhausts (₹5,500)** — but **measure the cut-outs first**. A 150 mm fan in a 200 mm hole is a permanent draught.
 4. **Geysers (₹13,170 fitted)** — only after the 15 A points with MCB are confirmed.
 5. **Curtain rods, bath sets, mirrors (₹12,000)** — local, last, measured on site.
@@ -101,8 +130,9 @@ That matters for your second point: if you might live in this flat yourself, buy
 | Ceiling fan — living | **atomberg Renesa Prime Remote 1200 mm, 5-star BLDC, Gloss White** | 2 | 3,849 | 7,698 |
 | Ceiling fan — dining + 3 bedrooms | **atomberg Renesa Prime Remote 1200 mm, 5-star BLDC, Gloss White** | 4 | 3,849 | 15,396 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
-| Tube light | **Philips Slimline Ultra 20 W, 4 ft** (4000K if in stock) | 14 | 175 | 2,450 |
-| Bathroom light | **Philips 12 W IP44 round** | 3 | 550 | 1,650 |
+| Tube light | **Philips Slimline Ultra 20 W, 4 ft** — BOUGHT as 2 bulb-and-holder lamps for foyer + balcony; **12 battens still to buy** | 12 | 175 | 2,100 |
+| Foyer + balcony lamp | **16 W LED bulb + big-cup holder** ✅ BOUGHT | 2 | 175 | 350 |
+| Bathroom light | **Crompton 9 W** ✅ BOUGHT (budget line was Philips 12 W IP44 at ₹550) | 3 | 550 | 1,650 |
 | Night lamp | **Philips SereneShine 0.5 W** | 3 | 135 | 405 |
 | Exhaust — toilets | **Crompton Brisk Air Plus 150 mm** (auto shutters) | 3 | 1,350 | 4,050 |
 | Exhaust — kitchen | **Havells Ventil Air DX 200 mm** | 1 | 1,450 | 1,450 |
@@ -118,7 +148,7 @@ That matters for your second point: if you might live in this flat yourself, buy
 | Pigeon net | **Balcony, 1.5 mm UV nylon, installed** | ~80 sq ft | — | 3,000 |
 | | **ALL THREE HEADS** | | | **1,55,586** |
 
-With furniture: **₹1,55,586** all-in (furniture ₹83,835 + fixtures ₹55,581 + geysers ₹13,170 + net ₹3,000). Of that, **₹19,245 is already spent on the 5 fans** — see §0 for the live bought/pending split.
+With furniture: **₹1,55,586** all-in (furniture ₹83,835 + fixtures ₹55,581 + geysers ₹13,170 + net ₹3,000). Of that, **₹21,245 is already spent** — 5 fans, 3 bathroom lights and the foyer/balcony lamps. See §0 for the live bought/pending split.
 
 **Fan note:** the model bought is the **Renesa Prime Remote** (₹3,849, Gloss White, Flipkart). It is mechanically the same fan as the Enzel — same 35 W BLDC motor, same 3-year warranty, same universal IR remote — so nothing on this page changes on price. Only the shell is different.
 
@@ -139,19 +169,19 @@ With furniture: **₹1,55,586** all-in (furniture ₹83,835 + fixtures ₹55,581
 
 | Location | Fan | Light | Exhaust | Other |
 |---|---|---|---|---|
-| Personal foyer | — | 1 | — | — |
-| Living room | **2** | 2 | — | curtain rod, 2 points on separate switches |
-| Dining | 1 | 1 | — | curtain rod |
-| Kitchen | 1 (600 mm) | 2 | 1 × 200 mm | — |
-| Store | — | 1 | — | — |
-| Wash | — | 1 | — | — |
-| Passage | — | 2 | — | — |
-| Bedroom 5 | 1 | 1 | — | night lamp, curtain rod |
-| Bedroom 7 (master) | 1 | 1 | — | night lamp, curtain rod |
-| Bedroom 8 | 1 | 1 | — | night lamp, curtain rod |
-| Balcony | — | 1 | — | curtain rod, pigeon net |
-| Toilet 7A / 8A / 6 | — | 3 | 3 × 150 mm | geyser, accessories, mirror |
-| **Total** | **6 + 1** | **14 + 3** | **4** | **6 rods, 3 bath sets, 3 mirrors, 3 geysers, 1 net** |
+| Personal foyer | — | 1 — **done**, 16 W bulb + big-cup holder | — | — |
+| Living room | **2** (done ×2) | 2 **to buy** | — | curtain rod, 2 points on separate switches |
+| Dining | 1 (done) | 1 **to buy** | — | curtain rod |
+| Kitchen | 1 (600 mm) **pending** | 2 **to buy** | 1 × 200 mm | — |
+| Store | — | 1 **to buy** | — | — |
+| Wash | — | 1 **to buy** | — | — |
+| Passage | — | 2 **to buy** | — | — |
+| Bedroom 5 | 1 **pending** | 1 **to buy** | — | night lamp, curtain rod |
+| Bedroom 7 (master) | 1 (done) | 1 **to buy** | — | night lamp, curtain rod |
+| Bedroom 8 | 1 (done) | 1 **to buy** | — | night lamp, curtain rod |
+| Balcony | — | 1 — **done**, 16 W bulb + big-cup holder | — | curtain rod, pigeon net |
+| Toilet 7A / 8A / 6 | — | 3 — **done**, Crompton 9 W | 3 × 150 mm | geyser, accessories, mirror |
+| **Total** | **6 + 1** | **17 wired — 5 done, 12 to buy** + 3 night lamps | **4** | **6 rods, 3 bath sets, 3 mirrors, 3 geysers, 1 net** |
 
 ## 2. Ceiling fans (6 × 1200 mm)
 
@@ -364,7 +394,9 @@ Gota is pigeon country. An open 2nd-floor balcony without netting means dropping
 
 **Also ask them to quote invisible grills** at the same visit if the balcony has a small child in the tenant's family — same crew, and it is a selling point.
 
-## 6. LED battens — tube lights (14)
+## 6. LED battens — tube lights (12 still to buy)
+
+Fitted already: foyer and balcony, as **16 W bulbs in big-cup holders** — a bulb in a holder is cheaper than a batten and is the right call where the point is a single holder. Twelve battens remain: living 2, dining 1, kitchen 2, store 1, wash 1, passage 2, and one in each of the three bedrooms.
 
 | Brand / model | Amazon (₹) | Delivery | Offline (₹) | Lead |
 |---|---|---|---|---|
@@ -372,9 +404,18 @@ Gota is pigeon country. An open 2nd-floor balcony without netting means dropping
 | Havells Pride Ultra NXT 20 W, 4 ft | 219–259 | 2–3 d | 200–260 | Same day |
 | Wipro Garnet 20 W, 4 ft | ~220–300 | 2–4 d | 220–300 | Same day |
 
-**Note:** 6500K cool white is standard and cheapest. **4000K neutral white** costs ₹20–40 more and looks far better in a home — worth it for the listing photos.
+**Note:** 6500K cool white is standard and cheapest. **4000K neutral white** costs ₹20–40 more and looks far better in a home — worth it for the listing photos. **Match whatever the new 16 W bulbs are** — a 6500K bulb beside a 4000K batten in the same sightline looks like a mistake.
 
-## 7. Bathroom lights (3)
+## 7. Bathroom lights (3) — BOUGHT, Crompton 9 W
+
+Done: three **Crompton 9 W** lights, one per toilet. That closes this head; nothing to buy.
+
+Two notes on what went in:
+
+- **9 W is the minimum sensible.** Toilet 7A/8A are small, so 9 W is adequate, but if the wash-area mirror is used for shaving or make-up, one of the three could have taken a 12–15 W lamp.
+- **Check the IP rating.** If the 9 W is a bare bulb in an ordinary holder, swap the **holder** for an IP44 batten holder (₹80–120) — steam kills the holder long before the bulb fails. A holder swap is a five-minute job now and a re-wiring job after the ceiling is painted.
+
+The table below is what was planned, kept for reference if one of the three ever needs replacing:
 
 | Brand / model | Amazon (₹) | Delivery | Offline (₹) | Lead |
 |---|---|---|---|---|
@@ -382,7 +423,17 @@ Gota is pigeon country. An open 2nd-floor balcony without netting means dropping
 | Philips Spray 12 W IP44, 29 cm | 649–750 | 3–5 d | 650–800 | 1–2 d |
 | Wipro / Havells 10–12 W IP44 | ~350–500 | 2–4 d | 350–550 | Same day |
 
-**Must be IP44 or better.** Anything less corrodes in an Indian bathroom within two years.
+**A replacement must be IP44 or better.** Anything less corrodes in an Indian bathroom within two years.
+
+## 7a. Foyer and balcony lamps — BOUGHT
+
+Two **16 W LED bulbs in big-cup holders**. That is the correct choice for these two points, not a compromise:
+
+- Both are single-holder points where a 4 ft batten would not fit or would look wrong.
+- 16 W gives roughly 1,300–1,500 lumens — bright enough for a foyer, and more than a balcony needs at night.
+- A big-cup holder throws light up as well as down, so the foyer ceiling does not go dark above the lamp.
+
+**One balcony caveat:** a bulb in a cup holder is open to the weather. It is fine under a soffit or a covered balcony; if rain can reach it, an **IP65 bulkhead** (₹350–600) is the right fitting and the bulb moves inside it.
 
 ## 8. Night lamps (3)
 
@@ -436,7 +487,7 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 | Area | Good for |
 |---|---|
 | **Naranpura / AEC Cross Road** | Fans, lights, exhausts — main electrical market, best prices |
-| **Relief Road / Kalupur** | Wholesale, good for all 14 battens at once |
+| **Relief Road / Kalupur** | Wholesale, good for all 12 battens at once |
 | **Gota / Chandkheda** (near the flat) | Convenience and returns; 5–10% dearer |
 | **SG Highway showrooms** | Havells, Crompton, Jaquar, AO Smith — full range, fixed prices |
 | **Paldi / Bhattha** | Hardware, SS 304 accessories, curtain pipes |
@@ -451,8 +502,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 |---|---|---|---|---|
 | Ceiling fans | Crompton Hill Briz Neo 1200 | 6 | 1,951 | 11,706 |
 | Kitchen fan | ACTIVA Ornet 600 mm | 1 | 1,249 | 1,249 |
-| LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
-| Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
+| LED battens | Philips Slimline Ultra 20 W | 12 | 175 | 2,100 |
+| Foyer + balcony lamps | 16 W bulb + big-cup holder ✅ bought | 2 | 175 | 350 |
+| Bathroom lights | Crompton 9 W ✅ bought | 3 | 550 | 1,650 |
 | Night lamps | Philips SereneShine | 3 | 135 | 405 |
 | Exhaust — toilets | Crompton Brisk Air 150 mm | 3 | 1,300 | 3,900 |
 | Exhaust — kitchen | Havells Ventil Air DX 200 mm | 1 | 1,450 | 1,450 |
@@ -473,8 +525,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 |---|---|---|---|---|
 | Ceiling fans | **atomberg Renesa Prime Remote 1200** (2 living, 1 dining, 3 bedrooms) | 6 | 3,849 | 23,094 |
 | Kitchen fan | **Bajaj Maxima 600 mm** | 1 | 1,832 | 1,832 |
-| LED battens | Philips Slimline Ultra 20 W | 14 | 175 | 2,450 |
-| Bathroom lights | Philips 12 W IP44 | 3 | 550 | 1,650 |
+| LED battens | Philips Slimline Ultra 20 W | 12 | 175 | 2,100 |
+| Foyer + balcony lamps | 16 W bulb + big-cup holder ✅ bought | 2 | 175 | 350 |
+| Bathroom lights | Crompton 9 W ✅ bought | 3 | 550 | 1,650 |
 | Night lamps | Philips SereneShine | 3 | 135 | 405 |
 | Exhaust — toilets | Crompton Brisk Air 150 mm | 3 | 1,350 | 4,050 |
 | Exhaust — kitchen | Havells Ventil Air DX 200 mm | 1 | 1,450 | 1,450 |
@@ -495,8 +548,9 @@ Both are 2-pin plug-in, no wiring — **but check each bedroom has a live socket
 |---|---|---|---|---|
 | Ceiling fans | **atomberg Renesa Prime Remote 1200** — same as Recommended; the tier above this is decoration, not a better fan | 6 | 3,849 | 23,094 |
 | Kitchen fan | Bajaj Maxima 600 mm | 1 | 1,832 | 1,832 |
-| LED battens | Havells Pride Ultra NXT 20 W | 14 | 235 | 3,290 |
-| Bathroom lights | Philips Spray 12 W IP44 | 3 | 700 | 2,100 |
+| LED battens | Havells Pride Ultra NXT 20 W | 12 | 235 | 2,820 |
+| Foyer + balcony lamps | 16 W bulb + big-cup holder ✅ bought | 2 | 235 | 470 |
+| Bathroom lights | Crompton 9 W ✅ bought (Best-tier budget had Philips Spray) | 3 | 700 | 2,100 |
 | Night lamps | Philips SereneShine | 3 | 150 | 450 |
 | Exhaust | Havells Ventil Air DX 150/200 mm | 4 | 1,600 | 6,400 |
 | Curtain rods | Local SS pipe, premium brackets | 6 | 1,200 | 7,200 |
@@ -550,14 +604,16 @@ What you *would* actually add on moving in is not on this list at all: cove ligh
 | Work | Rate | Qty | Approx |
 |---|---|---|---|
 | Ceiling fan (incl. small kitchen fan) | ₹250–400 | 7 | ₹1,750–2,800 |
-| LED batten | ₹100–150 | 14 | ₹1,400–2,100 |
-| Bathroom light | ₹150–200 | 3 | ₹450–600 |
+| LED batten | ₹100–150 | **12** | **₹1,200–1,800** |
+| Bathroom light | ₹150–200 | 3 | ₹450–600 — **already fitted** |
 | Exhaust fan | ₹250–400 | 4 | ₹1,000–1,600 |
 | Curtain rod (drill + fit) | ₹200–350 | 6 | ₹1,200–2,100 |
 | Bath accessories + mirror | ₹400–700 per bathroom | 3 | ₹1,200–2,100 |
-| **Fixtures total** | | | **₹7,000–11,300** |
+| **Fixtures total** | | | **₹6,800–11,000** |
 | Geyser fitting (pipes + tap + point) | ₹600–800 each | 3 | ₹1,800–2,400 |
 | Pigeon net | Included in the ₹/sq ft rate | 1 | ₹0 |
+
+Foyer and balcony were bulb-and-holder points, so they need no batten fitting charge — that is ₹200–300 off the electrician's bill.
 
 New wiring point, if needed: **₹300–500 each.** A 15 A geyser point with MCB: **₹700–1,200 each.**
 

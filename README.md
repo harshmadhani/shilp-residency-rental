@@ -22,19 +22,23 @@ Working documents for fitting out the flat for **long-term furnished rental** (t
 
 English documents are kept as markdown for reference. Only the two documents that go to tradesmen — the quotation and the fitting list — are produced in Hindi as PDFs.
 
-## Purchase status — updated 18 November 2026
+## Purchase status — updated 20 November 2026
 
 | Bought | Qty | ₹ |
 |---|---|---|
 | **atomberg Renesa Prime Remote 1200 mm, Gloss White** | **5** | **19,245** |
+| **Crompton 9 W bathroom lights** | **3** | 1,650 (budget price) |
+| **16 W bulb + big-cup holder — foyer, balcony** | **2** | 350 (budget price) |
 
-**Pending:** 1 ceiling fan (Bedroom 5), 1 kitchen fan (Bajaj Maxima 600), and all lights, exhaust fans, curtain rods, bathroom fittings, mirrors, geysers and the pigeon net.
+**Pending:** 1 ceiling fan (Bedroom 5), 1 kitchen fan (Bajaj Maxima 600), **12 LED battens, 3 night lamps**, 4 exhaust fans, 6 curtain rods, 3 bath accessory sets, 3 mirrors, 3 geysers and the pigeon net.
 
 | | ₹ |
 |---|---|
 | Whole fit-out (furniture + fixtures + geysers + net) | 1,55,586 |
-| Spent | 19,245 |
-| Still to spend | 1,36,341 |
+| Spent | 21,245 |
+| Still to spend | 1,34,341 |
+
+**Lights still to buy: 12 battens + 3 night lamps = ₹2,505.** Of the 17 wired light points, 5 are done (3 bathroom, foyer, balcony); 12 battens remain, plus 3 plug-in night lamps that need no wiring. The itemised chart is **§0** and the room-by-room list is **§1** of `docs/lights-fans-fixtures.en.md`.
 
 The itemised bought/pending chart, with the order to buy the rest in, is **§0 of `docs/lights-fans-fixtures.en.md`**. The Hindi fitting list already reflects it: **5 fans to fit now, 1 bedroom fan and the kitchen fan deferred, with their points and hooks prepared now.**
 
